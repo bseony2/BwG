@@ -25,3 +25,4 @@
 |날짜|푼 사람|문제|알고리즘|링크|
 |-----|-----|-----|-----|-----|
 |2022-10-09|배선영|피보나치 수|구현, 피보나치 수열|https://school.programmers.co.kr/learn/courses/30/lessons/12945
+|2022-10-10|배선영|영어 끝말잇기|구현|https://school.programmers.co.kr/learn/courses/30/lessons/12981
