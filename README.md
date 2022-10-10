@@ -23,7 +23,7 @@
 ------------------------------------------
 #### 10월2째주 (2022-10-10 ~ 2022-10-16)
 
-|날짜|푼 사람|문제|알고리즘|링크|
+|날짜|푼 사람|문제|알고리즘|나의 풀이|
 |-----|-----|-----|-----|-----|
-|2022-10-09|배선영|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|구현, 피보나치 수열|
-|2022-10-10|배선영|[영어 끝말잇기][https://school.programmers.co.kr/learn/courses/30/lessons/12981]|구현|
+|2022-10-09|배선영|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|구현, 피보나치 수열|[내 풀이]((https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.java)
+|2022-10-10|배선영|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|구현|[풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.java)
