@@ -3,8 +3,6 @@ import java.util.ArrayList;
 
 class Solution {
     public int[] solution(int n, String[] words) {
-        int[] answer = {};
-        
         int turn = 0;
 
         List<String> wordList = new ArrayList<String>(n);
