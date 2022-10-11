@@ -4,6 +4,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/*
+    ** 시간초과 : StringBuilder 한 번에 출력
+ */
 public class B11729_하노이_탑_이동순서 {
     static StringBuilder sb = new StringBuilder();
 
