@@ -31,4 +31,5 @@
 |2022-10-11|신승혁|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.js)
 |2022-10-11|신승혁|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.js)
 |2022-10-11|김서연|[하노이 탑 이동순서](https://www.acmicpc.net/problem/11729)|재귀|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/%ED%95%98%EB%85%B8%EC%9D%B4%20%ED%83%91%20%EC%9D%B4%EB%8F%99%EC%88%9C%EC%84%9C.java)
+|2022-10-13|김서연|[Two Sum](https://leetcode.com/problems/two-sum/)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/TwoSum.java)
 
