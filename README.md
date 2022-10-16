@@ -34,4 +34,6 @@
 |2022-10-13|김서연|[Two Sum](https://leetcode.com/problems/two-sum/)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/TwoSum.java)
 |2022-10-16|김예찬|[크로아티아 알파벳](https://www.acmicpc.net/problem/2941)|문자열|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-2941.java)
 |2022-10-16|김예찬|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|문자|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-1316.java)
+|2022-10-16|안정석|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|스택/큐|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/Pro_Lv2_%ED%94%84%EB%A6%B0%ED%84%B0.java)
+|2022-10-16|안정석|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|스택/큐|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/Pro_Lv2_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.java)
 
