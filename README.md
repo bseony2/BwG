@@ -32,4 +32,6 @@
 |2022-10-11|신승혁|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.js)
 |2022-10-11|김서연|[하노이 탑 이동순서](https://www.acmicpc.net/problem/11729)|재귀|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/%ED%95%98%EB%85%B8%EC%9D%B4%20%ED%83%91%20%EC%9D%B4%EB%8F%99%EC%88%9C%EC%84%9C.java)
 |2022-10-13|김서연|[Two Sum](https://leetcode.com/problems/two-sum/)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/TwoSum.java)
+|2022-10-16|김예찬|[크로아티아 알파벳](https://www.acmicpc.net/problem/2941)|문자열|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-2941.java)
+|2022-10-16|김예찬|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|문자|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-1316.java)
 
