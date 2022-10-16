@@ -39,5 +39,5 @@
 |2022-10-16|김병준|[안녕](https://www.acmicpc.net/problem/1535)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p1535.java)
 |2022-10-16|김병준|[합구하기](https://www.acmicpc.net/problem/11441)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p11441.java)
 
-#####10월 2째 주 벌금자 : 송준석
+##### 10월 2째 주 벌금자 : 송준석
 ------------------------------------------
