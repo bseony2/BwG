@@ -30,6 +30,8 @@
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
 |2022-10-17|배선영|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|구현, 큐|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%94%84%EB%A6%B0%ED%84%B0.java)
+|2022-10-21|김예찬|[덩치](hhttps://www.acmicpc.net/problem/7568)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-7568.java)
+
 ------------------------------------------
 #### 10월2째주 (2022-10-10 ~ 2022-10-16)
 
