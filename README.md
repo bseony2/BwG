@@ -21,7 +21,7 @@
 --------------
 * 모임통장 만들기 전까지 벌금 기록
 
-### :moneybag: 벌금내역
+### :moneybag: 벌금내역   
 
 <details>
 <summary> :point_right: :dollar: :yen: :pound: :euro: </summary>
