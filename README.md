@@ -25,8 +25,8 @@
 
 <details>
 <summary> :point_right: :dollar: :yen: :pound: :euro: </summary>
-<div markdown="1">
-
+<div markdown="1">   
+  
 |날짜|주차|이름|금액|송금상태|
 |-----|-----|-----|-----|-----|
 |2022-10|2주차|송준석|10,000원|완료|
