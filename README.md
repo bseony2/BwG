@@ -39,6 +39,9 @@
 |2022-10-22|배선영|[제로](https://www.acmicpc.net/problem/10773)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%A0%9C%EB%A1%9C.java)
 |2022-10-23|안정석|[올림픽](https://www.acmicpc.net/problem/8979)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/BaekJoon_%EC%98%AC%EB%A6%BC%ED%94%BD.java)
 |2022-10-23|안정석|[우유와 요거트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/Pro_%EC%9A%B0%EC%9C%A0%EC%99%80%20%EC%9A%94%EA%B1%B0%ED%8A%B8%EA%B0%80%20%EB%8B%B4%EA%B8%B4%20%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.sql)
+|2022-10-23|김서연|[생일](https://www.acmicpc.net/problem/5635)|정렬|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/B5635_%EC%83%9D%EC%9D%BC.java)
+|2022-10-23|김서연|[재귀함수가 뭔가요](https://www.acmicpc.net/problem/17478)|재귀|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/B17478_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EA%B0%80_%EB%AD%94%EA%B0%80%EC%9A%94.java)
+
 ------------------------------------------
 #### 10월2째주 (2022-10-10 ~ 2022-10-16)
 
