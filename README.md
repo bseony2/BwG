@@ -34,6 +34,8 @@
 |2022-10-21|김병준|[방 번호](https://www.acmicpc.net/problem/1475)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p1475.java)
 |2022-10-22|김예찬|[제로](https://www.acmicpc.net/problem/10773)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-10773.java)
 |2022-10-23|김병준|[십자카드 문제](https://www.acmicpc.net/problem/2659)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p2659.java)
+|2022-10-22|황서영|[옹알이](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%98%B9%EC%95%8C%EC%9D%B4.java)
+|2022-10-22|황서영|[편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%ED%8E%B8%EC%A7%80.java)
 ------------------------------------------
 #### 10월2째주 (2022-10-10 ~ 2022-10-16)
 
