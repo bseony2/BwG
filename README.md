@@ -47,31 +47,6 @@
 ### 10월 
 
 <details>
-<summary>10월2째주 (2022-10-10 ~ 2022-10-16)</summary>
-<div markdown="1">
-
-|날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
-|-----|-----|-----|-----|-----|
-|2022-10-09|배선영|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|구현, 피보나치 수열|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.java)
-|2022-10-10|배선영|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.java)
-|2022-10-11|신승혁|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.js)
-|2022-10-11|신승혁|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.js)
-|2022-10-11|김서연|[하노이 탑 이동순서](https://www.acmicpc.net/problem/11729)|재귀|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/%ED%95%98%EB%85%B8%EC%9D%B4%20%ED%83%91%20%EC%9D%B4%EB%8F%99%EC%88%9C%EC%84%9C.java)
-|2022-10-13|김서연|[Two Sum](https://leetcode.com/problems/two-sum/)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/TwoSum.java)
-|2022-10-16|김예찬|[크로아티아 알파벳](https://www.acmicpc.net/problem/2941)|문자열|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-2941.java)
-|2022-10-16|김예찬|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|문자|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-1316.java)
-|2022-10-16|안정석|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|스택/큐|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/Pro_Lv2_%ED%94%84%EB%A6%B0%ED%84%B0.java)
-|2022-10-16|안정석|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|스택/큐|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/Pro_Lv2_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.java)
-|2022-10-16|김병준|[안녕](https://www.acmicpc.net/problem/1535)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p1535.java)
-|2022-10-16|김병준|[합구하기](https://www.acmicpc.net/problem/11441)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p11441.java)
-
-##### 10월 2째 주 벌금자 : 송준석
-
-</div>
-</details>
-
-
-<details>
 <summary>10월3째주 (2022-10-17 ~ 2022-10-23)</summary>
 <div markdown="1">
 
@@ -91,6 +66,30 @@
 |2022-10-23|김서연|[재귀함수가 뭔가요](https://www.acmicpc.net/problem/17478)|재귀|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/B17478_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EA%B0%80_%EB%AD%94%EA%B0%80%EC%9A%94.java)
 |2022-10-23|신승혁|[옹알이](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%EC%98%B9%EC%95%8C%EC%9D%B4.JS)
 |2022-10-23|신승혁|[편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%ED%8E%B8%EC%A7%80.js)
+
+</div>
+</details>
+
+<details>
+<summary>10월2째주 (2022-10-10 ~ 2022-10-16)</summary>
+<div markdown="1">
+
+|날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
+|-----|-----|-----|-----|-----|
+|2022-10-09|배선영|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|구현, 피보나치 수열|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.java)
+|2022-10-10|배선영|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.java)
+|2022-10-11|신승혁|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.js)
+|2022-10-11|신승혁|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.js)
+|2022-10-11|김서연|[하노이 탑 이동순서](https://www.acmicpc.net/problem/11729)|재귀|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/%ED%95%98%EB%85%B8%EC%9D%B4%20%ED%83%91%20%EC%9D%B4%EB%8F%99%EC%88%9C%EC%84%9C.java)
+|2022-10-13|김서연|[Two Sum](https://leetcode.com/problems/two-sum/)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/TwoSum.java)
+|2022-10-16|김예찬|[크로아티아 알파벳](https://www.acmicpc.net/problem/2941)|문자열|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-2941.java)
+|2022-10-16|김예찬|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|문자|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-1316.java)
+|2022-10-16|안정석|[프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|스택/큐|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/Pro_Lv2_%ED%94%84%EB%A6%B0%ED%84%B0.java)
+|2022-10-16|안정석|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|스택/큐|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/Pro_Lv2_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.java)
+|2022-10-16|김병준|[안녕](https://www.acmicpc.net/problem/1535)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p1535.java)
+|2022-10-16|김병준|[합구하기](https://www.acmicpc.net/problem/11441)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p11441.java)
+
+##### 10월 2째 주 벌금자 : 송준석
 
 </div>
 </details>
