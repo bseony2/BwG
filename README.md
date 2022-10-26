@@ -43,7 +43,7 @@
 |2022-10-25|김서연|[명령 프롬프트](https://www.acmicpc.net/problem/1032)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/B1032_%EB%AA%85%EB%A0%B9%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.java)
 |2022-10-25|김예찬|[두 수의 합](https://www.acmicpc.net/problem/3273)|투포인터|[내 풀이](https://github.com/bseony2/BwG/commit/ca2d456841e88fd93c99c9dcb2c7dc829ecc51e9)
 |2022-10-27|김예찬|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|DFS/BFS|[내 풀이](https://github.com/bseony2/BwG/commit/3e74308d8d129cec014daeab595dc1ad13e87a70)
-|2022-10-28|김병준|[소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p17128.java)
+|2022-10-27|김병준|[소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p17128.java)
 --------------------------------------
 
 ### 10월 
