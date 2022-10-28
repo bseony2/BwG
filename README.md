@@ -1,4 +1,4 @@
-# 코딩 스터디 비스무리한거
+# ✈️ 코딩 스터디 비스무리한거 ✈️ 
 1.  자발적으로 코딩 공부하기 위한 모임
 2.  각 참여자는 한주에 2문제 이상의 문제를 풀어 본인의 이름이 적힌 디렉토리에 커밋
 3.  풀이 문제의 난이도는 자율적으로 선택
@@ -19,13 +19,38 @@
 * 아래 표 작성하는 방법과 링크 다는 방법은 인터넷 + 배선영거 참조하면 좋을거 같아요
 
 --------------
-* 모임통장 만들기 전까지 벌금 기록
-* 송준석 1만원
+## :moneybag: 벌금내역   
 
-### 문제들
+<details>
+<summary> :point_right: :dollar: :yen: :pound: :euro: </summary>
+<div markdown="1">   
+  
+|날짜|주차|이름|금액|송금상태|
+|-----|-----|-----|-----|-----|
+|2022-10|2주차|송준석|10,000원|완료|
+|2022-10|3주차|송준석|10,000원|완료|
 
-------------------------------------------
-#### 10월3째주 (2022-10-17 ~ 2022-10-23)
+</div>
+</details>
+
+---
+## ✏️ 문제들
+
+#### 10월4째주 (2022-10-24 ~ 2022-10-30)
+
+|날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
+|-----|-----|-----|-----|-----|
+|2022-10-25|김서연|[명령 프롬프트](https://www.acmicpc.net/problem/1032)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/B1032_%EB%AA%85%EB%A0%B9%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8.java)
+|2022-10-25|김예찬|[두 수의 합](https://www.acmicpc.net/problem/3273)|투포인터|[내 풀이](https://github.com/bseony2/BwG/commit/ca2d456841e88fd93c99c9dcb2c7dc829ecc51e9)
+|2022-10-27|김예찬|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|DFS/BFS|[내 풀이](https://github.com/bseony2/BwG/commit/3e74308d8d129cec014daeab595dc1ad13e87a70)
+|2022-10-27|김병준|[소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p17128.java)
+--------------------------------------
+
+### 10월 
+
+<details>
+<summary>10월3째주 (2022-10-17 ~ 2022-10-23)</summary>
+<div markdown="1">
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
@@ -33,8 +58,23 @@
 |2022-10-21|김예찬|[덩치](https://www.acmicpc.net/problem/7568)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-7568.java)
 |2022-10-21|김병준|[방 번호](https://www.acmicpc.net/problem/1475)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p1475.java)
 |2022-10-22|김예찬|[제로](https://www.acmicpc.net/problem/10773)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-10773.java)
-------------------------------------------
-#### 10월2째주 (2022-10-10 ~ 2022-10-16)
+|2022-10-23|김병준|[십자카드 문제](https://www.acmicpc.net/problem/2659)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p2659.java)
+|2022-10-22|황서영|[옹알이](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%98%B9%EC%95%8C%EC%9D%B4.java)
+|2022-10-22|황서영|[편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%ED%8E%B8%EC%A7%80.java)
+|2022-10-23|배선영|[제로](https://www.acmicpc.net/problem/10773)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%A0%9C%EB%A1%9C.java)
+|2022-10-23|안정석|[올림픽](https://www.acmicpc.net/problem/8979)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/BaekJoon_%EC%98%AC%EB%A6%BC%ED%94%BD.java)
+|2022-10-23|안정석|[우유와 요거트가 담긴 장바구니](https://school.programmers.co.kr/learn/courses/30/lessons/62284)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/Pro_%EC%9A%B0%EC%9C%A0%EC%99%80%20%EC%9A%94%EA%B1%B0%ED%8A%B8%EA%B0%80%20%EB%8B%B4%EA%B8%B4%20%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88.sql)
+|2022-10-23|김서연|[생일](https://www.acmicpc.net/problem/5635)|정렬|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/B5635_%EC%83%9D%EC%9D%BC.java)
+|2022-10-23|김서연|[재귀함수가 뭔가요](https://www.acmicpc.net/problem/17478)|재귀|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/B17478_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98%EA%B0%80_%EB%AD%94%EA%B0%80%EC%9A%94.java)
+|2022-10-23|신승혁|[옹알이](https://school.programmers.co.kr/learn/courses/30/lessons/120956)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%EC%98%B9%EC%95%8C%EC%9D%B4.JS)
+|2022-10-23|신승혁|[편지](https://school.programmers.co.kr/learn/courses/30/lessons/120898)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%ED%8E%B8%EC%A7%80.js)
+
+</div>
+</details>
+
+<details>
+<summary>10월2째주 (2022-10-10 ~ 2022-10-16)</summary>
+<div markdown="1">
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
@@ -52,4 +92,8 @@
 |2022-10-16|김병준|[합구하기](https://www.acmicpc.net/problem/11441)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p11441.java)
 
 ##### 10월 2째 주 벌금자 : 송준석
+
+</div>
+</details>
+
 ------------------------------------------
