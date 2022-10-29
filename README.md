@@ -17,8 +17,8 @@
 <summary> :point_right: :dollar: :yen: :pound: :euro: </summary>
 <div markdown="1">   
   
-|날짜|주차|이름[CUST_NM]|금액[RPYMNT_AMT]|송금상태[SNMN_STS_DSCD]|
-|-----|-----|-----|-----|-----|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;날짜&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;주차&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;이름[CUST_NM]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;금액[RPYMNT_AMT]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;송금상태[SNMN_STS_DSCD]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+|:-----:|:-----:|:-----:|-----:|:-----:|
 |2022-10|2주차|송준석|10,000원|완료|
 |2022-10|3주차|송준석|10,000원|완료|
 
