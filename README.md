@@ -44,7 +44,7 @@
 |2022-10-25|김예찬|[두 수의 합](https://www.acmicpc.net/problem/3273)|투포인터|[내 풀이](https://github.com/bseony2/BwG/commit/ca2d456841e88fd93c99c9dcb2c7dc829ecc51e9)
 |2022-10-27|김예찬|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|DFS/BFS|[내 풀이](https://github.com/bseony2/BwG/commit/3e74308d8d129cec014daeab595dc1ad13e87a70)
 |2022-10-27|김병준|[소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p17128.java)
-|2022-10-29|황서영|[K의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/K%EC%9D%98%EA%B0%9C%EC%88%98.java)
+|2022-10-28|황서영|[K의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/K%EC%9D%98%EA%B0%9C%EC%88%98.java)
 |2022-10-29|황서영|[다음에올숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EB%8B%A4%EC%9D%8C%EC%97%90%EC%98%AC%EC%88%AB%EC%9E%90.java)
 --------------------------------------
 
