@@ -28,6 +28,24 @@
 ---
 ## ✏️ 문제들
 
+
+
+<details>
+<summary> 테스트중 </summary>
+<div markdown="1"> 
+
+
+
+||김병준|김서연|김예찬|배선영|송준석|신승혁|안정석|황서영|
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 1 | <li> - [X] &nbsp; </li> | <li> - [X] &nbsp; </li> | <li> - [X] &nbsp; </li> | <li> - [X] &nbsp; </li>| <li> - [ ] &nbsp; </li> | <li> - [ ] &nbsp; </li> | <li> - [ ] &nbsp; </li> | <li> - [X] &nbsp; </li> |
+| 2 | <li> - [X] &nbsp; </li> | <li> - [X] &nbsp; </li> | <li> - [X] &nbsp; </li> | <li> - [ ] &nbsp; </li>| <li> - [ ] &nbsp; </li> | <li> - [ ] &nbsp; </li> | <li> - [ ] &nbsp; </li> | <li> - [X] &nbsp; </li> |
+
+</div>
+</details>
+
+
+
 #### 10월4째주 (2022-10-24 ~ 2022-10-30)
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
