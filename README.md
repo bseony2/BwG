@@ -34,12 +34,10 @@
 <summary> 테스트중 </summary>
 <div markdown="1"> 
 
-
-
 ||김병준|김서연|김예찬|배선영|송준석|신승혁|안정석|황서영|
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 1 | <li> - [X] &nbsp; </li> | <li> - [X] &nbsp; </li> | <li> - [X] &nbsp; </li> | <li> - [X] &nbsp; </li>| <li> - [ ] &nbsp; </li> | <li> - [ ] &nbsp; </li> | <li> - [ ] &nbsp; </li> | <li> - [X] &nbsp; </li> |
-| 2 | <li> - [X] &nbsp; </li> | <li> - [X] &nbsp; </li> | <li> - [X] &nbsp; </li> | <li> - [ ] &nbsp; </li>| <li> - [ ] &nbsp; </li> | <li> - [ ] &nbsp; </li> | <li> - [ ] &nbsp; </li> | <li> - [X] &nbsp; </li> |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 1 | <li> - [X] </li> | <li> - [X] </li> | <li> - [X] </li> | <li> - [X] </li>| <li> - [ ] </li> | <li> - [ ] </li> | <li> - [ ] </li> | <li> - [X] </li> |
+| 2 | <li> - [X] </li> | <li> - [X] </li> | <li> - [X] </li> | <li> - [ ] </li>| <li> - [ ] </li> | <li> - [ ] </li> | <li> - [ ] </li> | <li> - [X] </li> |
 
 </div>
 </details>
