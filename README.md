@@ -39,6 +39,7 @@
 |2022-10-28|황서영|[K의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/K%EC%9D%98%EA%B0%9C%EC%88%98.java)
 |2022-10-29|황서영|[다음에올숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EB%8B%A4%EC%9D%8C%EC%97%90%EC%98%AC%EC%88%AB%EC%9E%90.java)
 |2022-10-29|김병준|[순서쌍의 곱의 합](https://www.acmicpc.net/problem/13900)|수학/구현|[내 풀이](https://github.com/Joonkb/algorithm/blob/main/BOJ/%EA%B5%AC%ED%98%84/%EA%B8%B0%EC%B4%88/p13900.java)
+|2022-10-29|배선영|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.java)
 --------------------------------------
 
 ### 10월 
