@@ -17,8 +17,8 @@
 <summary> :point_right: :dollar: :yen: :pound: :euro: </summary>
 <div markdown="1">   
   
-|날짜|주차|이름|금액|송금상태|
-|-----|-----|-----|-----|-----|
+|&nbsp;&nbsp;&nbsp;날짜&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;주차&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;이름[CUST_NM]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;금액[RPYMNT_AMT]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;송금상태[SNMN_STS_DSCD]&nbsp;&nbsp;&nbsp;|
+|:-----:|:-----:|:-----:|-----:|:-----:|
 |2022-10|2주차|송준석|10,000원|완료|
 |2022-10|3주차|송준석|10,000원|완료|
 
@@ -27,6 +27,22 @@
 
 ---
 ## ✏️ 문제들
+
+
+
+<details>
+<summary> 테스트중 </summary>
+<div markdown="1"> 
+
+||김병준|김서연|김예찬|배선영|송준석|신승혁|안정석|황서영|
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 1 | <li> - [X] </li> | <li> - [X] </li> | <li> - [X] </li> | <li> - [X] </li>| <li> - [ ] </li> | <li> - [ ] </li> | <li> - [ ] </li> | <li> - [X] </li> |
+| 2 | <li> - [X] </li> | <li> - [X] </li> | <li> - [X] </li> | <li> - [ ] </li>| <li> - [ ] </li> | <li> - [ ] </li> | <li> - [ ] </li> | <li> - [X] </li> |
+
+</div>
+</details>
+
+
 
 #### 10월4째주 (2022-10-24 ~ 2022-10-30)
 
@@ -39,6 +55,10 @@
 |2022-10-28|황서영|[K의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120887)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/K%EC%9D%98%EA%B0%9C%EC%88%98.java)
 |2022-10-29|황서영|[다음에올숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EB%8B%A4%EC%9D%8C%EC%97%90%EC%98%AC%EC%88%AB%EC%9E%90.java)
 |2022-10-29|김병준|[순서쌍의 곱의 합](https://www.acmicpc.net/problem/13900)|수학/구현|[내 풀이](https://github.com/Joonkb/algorithm/blob/main/BOJ/%EA%B5%AC%ED%98%84/%EA%B8%B0%EC%B4%88/p13900.java)
+|2022-10-29|배선영|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.java)
+|2022-10-29|김서연|[제로](https://www.acmicpc.net/problem/10773)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/B10773_%EC%A0%9C%EB%A1%9C_ver2.java)
+|2022-10-30|송준석|[콜라문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%86%A1%EC%A4%80%EC%84%9D/%EC%BD%9C%EB%9D%BC%EB%AC%B8%EC%A0%9C.java)
+|2022-10-30|송준석|[콜라츠추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%86%A1%EC%A4%80%EC%84%9D/%EC%BD%9C%EB%9D%BC%EC%B8%A0%EC%B6%94%EC%B8%A1.java)
 --------------------------------------
 
 ### 10월 
