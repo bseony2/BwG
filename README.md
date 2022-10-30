@@ -59,6 +59,7 @@
 |2022-10-29|김서연|[제로](https://www.acmicpc.net/problem/10773)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/B10773_%EC%A0%9C%EB%A1%9C_ver2.java)
 |2022-10-30|송준석|[콜라문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%86%A1%EC%A4%80%EC%84%9D/%EC%BD%9C%EB%9D%BC%EB%AC%B8%EC%A0%9C.java)
 |2022-10-30|송준석|[콜라츠추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%86%A1%EC%A4%80%EC%84%9D/%EC%BD%9C%EB%9D%BC%EC%B8%A0%EC%B6%94%EC%B8%A1.java)
+|2022-10-30|배선영|[빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EB%B9%9B%EC%9D%98%20%EA%B2%BD%EB%A1%9C%20%EC%82%AC%EC%9D%B4%ED%81%B4.java)
 --------------------------------------
 
 ### 10월 
