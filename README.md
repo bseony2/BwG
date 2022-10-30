@@ -57,6 +57,8 @@
 |2022-10-29|김병준|[순서쌍의 곱의 합](https://www.acmicpc.net/problem/13900)|수학/구현|[내 풀이](https://github.com/Joonkb/algorithm/blob/main/BOJ/%EA%B5%AC%ED%98%84/%EA%B8%B0%EC%B4%88/p13900.java)
 |2022-10-29|배선영|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.java)
 |2022-10-29|김서연|[제로](https://www.acmicpc.net/problem/10773)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/B10773_%EC%A0%9C%EB%A1%9C_ver2.java)
+|2022-10-30|송준석|[콜라문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%86%A1%EC%A4%80%EC%84%9D/%EC%BD%9C%EB%9D%BC%EB%AC%B8%EC%A0%9C.java)
+|2022-10-30|송준석|[콜라츠추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%86%A1%EC%A4%80%EC%84%9D/%EC%BD%9C%EB%9D%BC%EC%B8%A0%EC%B6%94%EC%B8%A1.java)
 --------------------------------------
 
 ### 10월 
