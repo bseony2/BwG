@@ -86,7 +86,7 @@
 |2022-10-30|송준석|[콜라츠추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%86%A1%EC%A4%80%EC%84%9D/%EC%BD%9C%EB%9D%BC%EC%B8%A0%EC%B6%94%EC%B8%A1.java)
 |2022-10-30|배선영|[빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EB%B9%9B%EC%9D%98%20%EA%B2%BD%EB%A1%9C%20%EC%82%AC%EC%9D%B4%ED%81%B4.java)
 |2022-10-30|안정석|[스타트와 링크](https://www.acmicpc.net/problem/14889)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/BaekJoon_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%99%80_%EB%A7%81%ED%81%AC.java)
-|2022-10-30|배선영|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/BaekJoon_%EC%BB%A8%EB%B2%A0%EC%9D%B4%EC%96%B4_%EB%B2%A8%ED%8A%B8_%EC%9C%84%EC%9D%98_%EB%A1%9C%EB%B4%87.java)
+|2022-10-30|안정석|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/BaekJoon_%EC%BB%A8%EB%B2%A0%EC%9D%B4%EC%96%B4_%EB%B2%A8%ED%8A%B8_%EC%9C%84%EC%9D%98_%EB%A1%9C%EB%B4%87.java)
 
 </div>
 </details>
