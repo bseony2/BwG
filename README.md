@@ -51,7 +51,7 @@
 |2022-11-03|김예찬|[토마토](https://www.acmicpc.net/problem/7576)|BFS|[내 풀이]({URL})
 |2022-11-03|김병준|[3의 배수](https://www.acmicpc.net/problem/1769)|구현|[내 풀이](https://github.com/Joonkb/algorithm/blob/main/BOJ/%EA%B5%AC%ED%98%84/%EA%B8%B0%EC%B4%88/p1769.java)
 |2022-11-04|김병준|[수 이어 쓰기 1](https://www.acmicpc.net/problem/1748)|구현|[내 풀이](https://github.com/Joonkb/algorithm/blob/main/BOJ/%EA%B5%AC%ED%98%84/%EA%B8%B0%EC%B4%88/p23814.java)
-|11/05|김예찬|[최대공약수찾기](https://www.acmicpc.net/problem/7576)|구현|[내 풀이]({URL})
+|2022-11-05|김예찬|[최대공약수찾기](https://www.acmicpc.net/problem/7576)|구현|[내 풀이]({URL})
 |(날짜)|황서영|[(문제명)]({URL})|구현|[내 풀이]({URL})
 |(날짜)|황서영|[(문제명)]({URL})|구현|[내 풀이]({URL})
 |(날짜)|김서연|[(문제명)]({URL})|구현|[내 풀이]({URL})
