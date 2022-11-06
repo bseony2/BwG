@@ -28,22 +28,6 @@
 ---
 ## ✏️ 문제들
 
-
-
-<details>
-<summary> 테스트중 </summary>
-<div markdown="1"> 
-
-||김병준|김서연|김예찬|배선영|송준석|신승혁|안정석|황서영|
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1 | <li> - [X] </li> | <li> - [X] </li> | <li> - [X] </li> | <li> - [X] </li>| <li> - [ ] </li> | <li> - [ ] </li> | <li> - [X] </li> | <li> - [X] </li> |
-| 2 | <li> - [X] </li> | <li> - [X] </li> | <li> - [X] </li> | <li> - [ ] </li>| <li> - [ ] </li> | <li> - [ ] </li> | <li> - [X] </li> | <li> - [X] </li> |
-
-</div>
-</details>
-
-
-
 #### 10월4째주 (2022-10-31 ~ 2022-11-06)
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
@@ -56,8 +40,8 @@
 |2022-11-05|황서영|[가까운 수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EA%B0%80%EA%B9%8C%EC%9A%B4%EC%88%98.java)
 |2022-11-06|송준석|[외계행성의 나이](https://school.programmers.co.kr/learn/courses/30/lessons/120834)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%86%A1%EC%A4%80%EC%84%9D/%EC%99%B8%EA%B3%84%ED%96%89%EC%84%B1%EC%9D%98%EB%82%98%EC%9D%B4.java)
 |2022-11-06|송준석|[저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%86%A1%EC%A4%80%EC%84%9D/%EC%A0%80%EC%A3%BC%EC%9D%98%EC%88%AB%EC%9E%903.java)
-|(날짜)|김서연|[(문제명)]({URL})|구현|[내 풀이]({URL})
-|(날짜)|김서연|[(문제명)]({URL})|구현|[내 풀이]({URL})
+|2022-11-06|김서연|[최대공약수와 최대공배수](https://www.acmicpc.net/problem/2609)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B2609_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80_%EC%B5%9C%EB%8C%80%EA%B3%B5%EB%B0%B0%EC%88%98.java)
+|2022-11-06|김서연|[(문제명)](https://www.acmicpc.net/problem/1748)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B1748_%EC%88%98%EC%9D%B4%EC%96%B4%EC%93%B0%EA%B8%B01.java)
 |(날짜)|신승혁|[(문제명)]({URL})|구현|[내 풀이]({URL})
 |(날짜)|신승혁|[(문제명)]({URL})|구현|[내 풀이]({URL})
 |2022-11-06|안정석|[오르막길](https://www.acmicpc.net/problem/2846)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/BaekJoon_%EC%98%A4%EB%A5%B4%EB%A7%89%EA%B8%B8.java)
