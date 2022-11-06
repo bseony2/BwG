@@ -63,7 +63,7 @@
 |(날짜)|안정석|[(문제명)]({URL})|구현|[내 풀이]({URL})
 |(날짜)|안정석|[(문제명)]({URL})|구현|[내 풀이]({URL})
 |(날짜)|배선영|[(문제명)]({URL})|구현|[내 풀이]({URL})
-|(날짜)|배선영|[(문제명)]({URL})|구현|[내 풀이]({URL})
+|2022-11-06|배선영|[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.java)
 --------------------------------------
 
 ### 10월 
