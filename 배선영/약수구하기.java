@@ -10,17 +10,15 @@ public class 약수구하기 {
         int K = Integer.parseInt(inVal[1]);
 
         int cnt = 0;
+        int answer = 0;
         for(int i=1; i< N + 1; i++) {
             if(N % i == 0) {
                 cnt++;
-            }
-            if(cnt == K) {
-                System.out.println(i);
-                break;
+                answer = i;
+                if(cnt == K)
+                    break;
             }
         }
-        if(cnt < K) {
-            System.out.println(0);
-        }
+        System.out.println(cnt == K ? answer : 0);
     }
 }
