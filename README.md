@@ -44,7 +44,7 @@
 |{날짜}|김예찬|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|2022-11-09|배선영|[약수 구하기]([{URL}](https://www.acmicpc.net/problem/2501))|{알고리즘}|[내 풀이]([{URL}](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%95%BD%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.java))
+|2022-11-09|배선영|[약수 구하기](https://www.acmicpc.net/problem/2501)|{구현}|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%95%BD%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.java)
 |{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 
 
