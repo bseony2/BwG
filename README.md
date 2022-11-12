@@ -48,6 +48,7 @@
 |2022-11-10|배선영|[이진수](https://www.acmicpc.net/problem/3460)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%9D%B4%EC%A7%84%EC%88%98.java)
 |2022-11-11|배선영|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%9D%BC%EA%B3%B1%20%EB%82%9C%EC%9F%81%EC%9D%B4.java)
 |2022-11-12|배선영|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|유클리드 호제법|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.java)
+|2022-11-12|배선영|[소수 찾기](https://www.acmicpc.net/problem/1978)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.java)
 
 
 --------------------------------------
