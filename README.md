@@ -30,8 +30,8 @@
 11월2째주 (2022-11-07 ~ 2022-11-13)
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
-|{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-11-13|황서영|[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EB%82%98%EB%88%84%EC%96%B4%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%EC%88%AB%EC%9E%90%EB%B0%B0%EC%97%B4.java)
+|2022-11-13|황서영|[나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%801%EC%9D%B4%EB%90%98%EB%8A%94%EC%88%98%EC%B0%BE%EA%B8%B0.java)
 |{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |2022-11-12|신승혁|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|완전탐색|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/BOJ_2309_%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4.java)
