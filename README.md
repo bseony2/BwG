@@ -34,7 +34,7 @@
 |2022-11-13|황서영|[나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%801%EC%9D%B4%EB%90%98%EB%8A%94%EC%88%98%EC%B0%BE%EA%B8%B0.java)
 |{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Programmers/P_%EC%A0%80%EC%A3%BC%EC%9D%98%EC%88%AB%EC%9E%903.jav)
 |{날짜}|김서연|[저주의숫자3](https://school.programmers.co.kr/learn/courses/30/lessons/120871?language=java)|구현|[내 풀이]({URL})
-|2022-11-12|신승혁|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|완전탐색|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/BOJ_2309_%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4.java)
+|2022-11-12|신승혁|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|완전탐색|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Programmers/P_%EC%A0%80%EC%A3%BC%EC%9D%98%EC%88%AB%EC%9E%903.java)
 |2022-11-10|신승혁|[토마토](https://www.acmicpc.net/problem/7576)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/BOJ_7576_%ED%86%A0%EB%A7%88%ED%86%A0.java)
 |{날짜}|안정석|[가장 긴 펠린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/Pro_%EA%B0%80%EC%9E%A5_%EA%B8%B4_%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AD.java)
 |{날짜}|안정석|[헤비 유저가 소유한 장소](https://school.programmers.co.kr/learn/courses/30/lessons/77487)|{SQL}|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/Pro_%ED%97%A4%EB%B9%84_%EC%9C%A0%EC%A0%80%EA%B0%80_%EC%86%8C%EC%9C%A0%ED%95%9C_%EC%9E%A5%EC%86%8C.sql)
