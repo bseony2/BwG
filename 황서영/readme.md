@@ -13,4 +13,9 @@
 #### ✓ 11월 1주차
 
 * [K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)
-* [가까운수](https://school.programmers.co.kr/learn/courses/30/lessons/120890) 
+* [가까운수](https://school.programmers.co.kr/learn/courses/30/lessons/120890)  
+
+#### ✓ 11월 2주차
+
+* [나머지가1이되는수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389)
+* [나누어떨어지는숫자배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)
