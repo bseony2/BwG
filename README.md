@@ -31,9 +31,9 @@
 11월3째주 (2022-11-14 ~ 2022-11-20)
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
-|{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-11-19|황서영|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|정렬|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98.java)
+|2022-11-19|황서영|[문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)|정렬|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EB%B0%B0%EC%B9%98%ED%95%98%EA%B8%B0.java)
+|{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]()
 |{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
@@ -45,6 +45,7 @@
 |{날짜}|김예찬|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-11-20|배선영|[괄호의 값](https://www.acmicpc.net/problem/2504)|스택, 구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EA%B4%84%ED%98%B8%EC%9D%98%20%EA%B0%92.java)
 |2022-11-19|배선영|[연산자 끼워넣기](https://www.acmicpc.net/problem/14888)|완전탐색|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%EB%84%A3%EA%B8%B0.java)
 |2022-11-14|배선영|[행렬의 곱셈](https://www.acmicpc.net/problem/10830)|분할정복|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%96%89%EB%A0%AC%EC%9D%98%EA%B3%B1%EC%85%88.java)
 
