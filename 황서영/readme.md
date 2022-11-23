@@ -27,3 +27,11 @@
 
 * [가장큰수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 * [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)
+
+#### ✓ 11월 4주차
+
+💡 [Stream API: 중간연산-flatMap](https://dev-kani.tistory.com/33)
+
+* [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)
+* [공던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843)
+
