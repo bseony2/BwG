@@ -43,8 +43,8 @@
 |{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김예찬|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김예찬|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-11-27|김병준|[N과 M (2)](https://www.acmicpc.net/problem/15650)|백트래킹|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p15650.java)
+|2022-11-27|김병준|[단어 정렬](https://www.acmicpc.net/problem/1181)|정렬|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p1181.java)
 |2022-11-21|배선영|[빗물](https://www.acmicpc.net/problem/14719)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EB%B9%97%EB%AC%BC.java)
 |2022-11-22|배선영|[가르침](https://www.acmicpc.net/problem/1062)|dfs(조합)|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EA%B0%80%EB%A5%B4%EC%B9%A8.java)
 --------------------------------------
