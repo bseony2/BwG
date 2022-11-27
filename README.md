@@ -33,8 +33,8 @@
 |-----|-----|-----|-----|-----|
 |{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|김서연|[별찍기6](https://www.acmicpc.net/problem/2443)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B2443_%EB%B3%84%EC%B0%8D%EA%B8%B06.java)
+|{날짜}|김서연|[별찍기9](https://www.acmicpc.net/problem/2446)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B2446_%EB%B3%84%EC%B0%8D%EA%B8%B09.java)
 |{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|안정석|[{토마토}](https://www.acmicpc.net/problem/7576)|{알고리즘}|[내 풀이](https://github.com/bseony2/BwG/commit/aee61b3741086e298a861b46880c9a84758e1063#diff-c12f337fa3ee3ed907f77486d457cbf09a331b1ade3926c3f061a37d877e391a)
