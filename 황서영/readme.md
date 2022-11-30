@@ -35,3 +35,8 @@
 * [영어가 싫어요](https://school.programmers.co.kr/learn/courses/30/lessons/120894)
 * [공던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843)
 
+#### ✓ 11월 5주차
+
+* [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)
+* [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)
+
