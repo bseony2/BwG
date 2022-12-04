@@ -11,21 +11,7 @@
 * 아래 표 작성하는 방법과 링크 다는 방법은 인터넷 + 배선영거 참조하면 좋을거 같아요
 
 --------------
-## :moneybag: 벌금내역   
 
-<details>
-<summary> :point_right: :dollar: :yen: :pound: :euro: </summary>
-<div markdown="1">   
-  
-|&nbsp;&nbsp;&nbsp;날짜&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;주차&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;이름[CUST_NM]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;금액[RPYMNT_AMT]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;송금상태[SNMN_STS_DSCD]&nbsp;&nbsp;&nbsp;|
-|:-----:|:-----:|:-----:|-----:|:-----:|
-|2022-10|2주차|송준석|10,000원|완료|
-|2022-10|3주차|송준석|10,000원|완료|
-
-</div>
-</details>
-
----
 ## ✏️ 문제들
 
 ### 12월
@@ -35,8 +21,8 @@
 |-----|-----|-----|-----|-----|
 |{날짜}|황서영|[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4p%EC%99%80y%EC%9D%98%EA%B0%9C%EC%88%98.java)
 |{날짜}|황서영|[수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.java)
-|{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-04|김서연|[약수들의 합](https://www.acmicpc.net/problem/9506)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B9506_%EC%95%BD%EC%88%98%EB%93%A4%EC%9D%98_%ED%95%A9.java)
+|2022-12-04|김서연|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/LeetCode/L217_Contains_Duplicate.java)
 |{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|안정석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
