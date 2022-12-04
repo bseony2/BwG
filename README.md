@@ -33,8 +33,8 @@
 12월1째주 (2022-11-28 ~ 2022-12-04)
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
-|{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|황서영|[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4p%EC%99%80y%EC%9D%98%EA%B0%9C%EC%88%98.java)
+|{날짜}|황서영|[수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.java)
 |{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
@@ -67,8 +67,8 @@
 |2022-11-27|김서연|[별찍기9](https://www.acmicpc.net/problem/2446)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B2446_%EB%B3%84%EC%B0%8D%EA%B8%B09.java)  
 |2022-11-27|신승혁|[이진변환반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|재귀|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/Solution_70129_%EC%9D%B4%EC%A7%84%EB%B3%80%ED%99%98%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0.java)  
 |2022-11-27|신승혁|[최댓값과최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/Solution_12939_%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%EC%B5%9C%EC%86%9F%EA%B0%92.java)  
-|{날짜}|안정석|[{토마토}](https://www.acmicpc.net/problem/7576)|{알고리즘}|[내풀이](https://github.com/bseony2/BwG/commit/aee61b3741086e298a861b46880c9a84758e1063#diff-c12f337fa3ee3ed907f77486d457cbf09a331b1ade3926c3f061a37d877e391a)  
-|{날짜}|안정석|[{유기농배추}](https://www.acmicpc.net/problem/1012)|{알고리즘}|[내풀이](https://github.com/bseony2/BwG/commit/aee61b3741086e298a861b46880c9a84758e1063#diff-a519eabf52c79a8fc7dc4ba9f1bd409ed5f27be020b56c4a797d596879336a91)  
+|{날짜}|안정석|[{토마토}](https://www.acmicpc.net/problem/7576)|{알고리즘}|[내 풀이](https://github.com/bseony2/BwG/commit/aee61b3741086e298a861b46880c9a84758e1063#diff-c12f337fa3ee3ed907f77486d457cbf09a331b1ade3926c3f061a37d877e391a)  
+|{날짜}|안정석|[{유기농배추}](https://www.acmicpc.net/problem/1012)|{알고리즘}|[내 풀이](https://github.com/bseony2/BwG/commit/aee61b3741086e298a861b46880c9a84758e1063#diff-a519eabf52c79a8fc7dc4ba9f1bd409ed5f27be020b56c4a797d596879336a91)  
 |{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})  
 |{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})  
 |2022-11-27|김예찬|[돌다리](https://www.acmicpc.net/problem/12761)|BFS|[내 풀이]({URL})  
