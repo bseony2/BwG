@@ -33,8 +33,8 @@
 |2022-12-04|김예찬|[빙고](https://www.acmicpc.net/problem/2578)|구현|[내 풀이]({URL})
 |2022-12-04|김병준|[골드바흐의 추측](https://www.acmicpc.net/problem/6588)|수학|[내 풀이](https://github.com/Joonkb/algorithm/commit/767ee3242aa06e609c02d381c1403d7fa002429b)
 |2022-12-04|김병준|[집합](https://www.acmicpc.net/problem/11723)|비트연산자|[내 풀이](https://github.com/Joonkb/algorithm/commit/2ba13e4c4c12ab0d5a41a4ff4259e67f7f579c5b)
-|{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-04|배선영|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|구현|[내 풀이]([{URL}](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java))
+|2022-12-04|배선영|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|dfs|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%94%BC%EB%A1%9C%EB%8F%84.java)
 --------------------------------------
 
 
