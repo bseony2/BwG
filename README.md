@@ -19,8 +19,8 @@
 12월1째주 (2022-11-28 ~ 2022-12-04)
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
-|{날짜}|황서영|[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4p%EC%99%80y%EC%9D%98%EA%B0%9C%EC%88%98.java)
-|{날짜}|황서영|[수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.java)
+|2022-11-30|황서영|[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4p%EC%99%80y%EC%9D%98%EA%B0%9C%EC%88%98.java)
+|2022-11-30|황서영|[수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.java)
 |2022-12-04|김서연|[약수들의 합](https://www.acmicpc.net/problem/9506)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B9506_%EC%95%BD%EC%88%98%EB%93%A4%EC%9D%98_%ED%95%A9.java)
 |2022-12-04|김서연|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/LeetCode/L217_Contains_Duplicate.java)
 |2022-12-04|신승혁|[N과M](https://www.acmicpc.net/problem/15650)|조합|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/BOJ_15650_N%EA%B3%BCM.java)
