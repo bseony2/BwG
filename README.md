@@ -11,21 +11,7 @@
 * 아래 표 작성하는 방법과 링크 다는 방법은 인터넷 + 배선영거 참조하면 좋을거 같아요
 
 --------------
-## :moneybag: 벌금내역   
 
-<details>
-<summary> :point_right: :dollar: :yen: :pound: :euro: </summary>
-<div markdown="1">   
-  
-|&nbsp;&nbsp;&nbsp;날짜&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;주차&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;이름[CUST_NM]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;금액[RPYMNT_AMT]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;송금상태[SNMN_STS_DSCD]&nbsp;&nbsp;&nbsp;|
-|:-----:|:-----:|:-----:|-----:|:-----:|
-|2022-10|2주차|송준석|10,000원|완료|
-|2022-10|3주차|송준석|10,000원|완료|
-
-</div>
-</details>
-
----
 ## ✏️ 문제들
 
 ### 12월
@@ -35,20 +21,20 @@
 |-----|-----|-----|-----|-----|
 |{날짜}|황서영|[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4p%EC%99%80y%EC%9D%98%EA%B0%9C%EC%88%98.java)
 |{날짜}|황서영|[수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98.java)
-|{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|안정석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|안정석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-04|김서연|[약수들의 합](https://www.acmicpc.net/problem/9506)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B9506_%EC%95%BD%EC%88%98%EB%93%A4%EC%9D%98_%ED%95%A9.java)
+|2022-12-04|김서연|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/LeetCode/L217_Contains_Duplicate.java)
+|2022-12-04|신승혁|[N과M](https://www.acmicpc.net/problem/15650)|조합|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/BOJ_15650_N%EA%B3%BCM.java)
+|2022-12-04|신승혁|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/Solution_42576_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.java)
+|2022-12-04|안정석|[알파벳](https://www.acmicpc.net/problem/1987)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/BaekJoon_%EC%95%8C%ED%8C%8C%EB%B2%B3.java)
+|2022-12-04|안정석|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/Pro_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80_%EB%AA%BB%ED%95%9C_%EC%84%A0%EC%88%98.java)
 |{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김예찬|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김예찬|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-04|김예찬|[말이되고픈원숭이](https://www.acmicpc.net/problem/1600)|BFS|[내 풀이]({URL})
+|2022-12-04|김예찬|[빙고](https://www.acmicpc.net/problem/2578)|구현|[내 풀이]({URL})
 |2022-12-04|김병준|[골드바흐의 추측](https://www.acmicpc.net/problem/6588)|수학|[내 풀이](https://github.com/Joonkb/algorithm/commit/767ee3242aa06e609c02d381c1403d7fa002429b)
 |2022-12-04|김병준|[집합](https://www.acmicpc.net/problem/11723)|비트연산자|[내 풀이](https://github.com/Joonkb/algorithm/commit/2ba13e4c4c12ab0d5a41a4ff4259e67f7f579c5b)
-|{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-04|배선영|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|구현|[내 풀이]([{URL}](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java))
+|2022-12-04|배선영|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|dfs|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%94%BC%EB%A1%9C%EB%8F%84.java)
 --------------------------------------
 
 
