@@ -22,8 +22,7 @@
 
 #### ✓ 11월 3주차
 
-💡 1) [Java Stream](https://yeonyeon.tistory.com/74)
-2) [Java 스트림 Stream (1) 총정리](https://futurecreator.github.io/2018/08/26/java-8-streams/)
+💡 1) [Java Stream](https://yeonyeon.tistory.com/74) 2) [Java 스트림 Stream (1) 총정리](https://futurecreator.github.io/2018/08/26/java-8-streams/)
 
 * [가장큰수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 * [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)
@@ -40,3 +39,6 @@
 * [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)
 * [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)
 
+#### ✓ 12월 1주차
+
+* [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)
