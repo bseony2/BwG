@@ -16,7 +16,10 @@
 
 ### 12월
 
-12월1째주 (2022-11-28 ~ 2022-12-04)
+<details>
+<summary>12월1째주 (2022-11-28 ~ 2022-12-04)</summary>
+<div markdown="1"> 
+
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
 |2022-11-30|황서영|[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4p%EC%99%80y%EC%9D%98%EA%B0%9C%EC%88%98.java)
@@ -36,8 +39,9 @@
 |2022-12-04|배선영|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|구현|[내 풀이]([{URL}](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java))
 |2022-12-04|배선영|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|dfs|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%94%BC%EB%A1%9C%EB%8F%84.java)
 --------------------------------------
-
-
+</div>
+</details>
+<br>
 
 ### 11월
 
