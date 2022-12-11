@@ -16,7 +16,33 @@
 
 ### 12월
 
-12월1째주 (2022-11-28 ~ 2022-12-04)
+12월2째주 (2022-12-05 ~ 2022-12-11)
+
+|날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
+|-----|-----|-----|-----|-----|
+|{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|안정석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|안정석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-11|송준석|[재구매가일어난상품과회원리스트구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131536)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%86%A1%EC%A4%80%EC%84%9D/%EC%9E%AC%EA%B5%AC%EB%A7%A4%EA%B0%80%EC%9D%BC%EC%96%B4%EB%82%9C%EC%83%81%ED%92%88%EA%B3%BC%ED%9A%8C%EC%9B%90%EB%A6%AC%EC%8A%A4%ED%8A%B8%EA%B5%AC%ED%95%98%EA%B8%B0.mysql)
+|2022-12-11|송준석|[7의개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%86%A1%EC%A4%80%EC%84%9D/7%EC%9D%98%EA%B0%9C%EC%88%98.java)
+|{날짜}|김예찬|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|김예찬|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+--------------------------------------
+
+
+<details>
+<summary>12월1째주 (2022-11-28 ~ 2022-12-04)</summary>
+<div markdown="1"> 
+
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
 |2022-11-30|황서영|[문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4p%EC%99%80y%EC%9D%98%EA%B0%9C%EC%88%98.java)
@@ -36,8 +62,9 @@
 |2022-12-04|배선영|[오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|구현|[내 풀이]([{URL}](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.java))
 |2022-12-04|배선영|[피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)|dfs|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%94%BC%EB%A1%9C%EB%8F%84.java)
 --------------------------------------
-
-
+</div>
+</details>
+<br>
 
 ### 11월
 
