@@ -22,9 +22,8 @@
 |-----|-----|-----|-----|-----|
 |{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|2022-12-11|김서연|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|구|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/LeetCode/L12_Integer_to_Roman.java)
-|2022-12-11|김서연|[완전제곱](https://www.acmicpc.net/problem/6131
-)|브루트포|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B6131_%EC%99%84%EC%A0%84%EC%A0%9C%EA%B3%B1%EC%88%98.java
+|2022-12-11|김서연|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/LeetCode/L12_Integer_to_Roman.java)
+|2022-12-11|김서연|[완전제곱](https://www.acmicpc.net/problem/6131)|브루트포스|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B6131_%EC%99%84%EC%A0%84%EC%A0%9C%EA%B3%B1%EC%88%98.java
 )
 |{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
