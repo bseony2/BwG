@@ -32,10 +32,10 @@
 |2022-12-11|송준석|[7의개수](https://school.programmers.co.kr/learn/courses/30/lessons/120912)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%86%A1%EC%A4%80%EC%84%9D/7%EC%9D%98%EA%B0%9C%EC%88%98.java)
 |{날짜}|김예찬|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김예찬|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-11|김병준|[일곱 난쟁이](https://www.acmicpc.net/problem/2309)|브루트포스|[내 풀이](https://github.com/Joonkb/algorithm/blob/main/BOJ/%EA%B5%AC%ED%98%84/%EA%B8%B0%EC%B4%88/p1182.java)
+|2022-12-11|김병준|[부분수열의 합](https://www.acmicpc.net/problem/21182)|비트마스크|[내 풀이](https://github.com/Joonkb/algorithm/blob/main/BOJ/%EA%B5%AC%ED%98%84/%EA%B8%B0%EC%B4%88/p2309.java)
 |2022-12-07|배선영|[소수구하기](https://www.acmicpc.net/problem/1929)|에라토스테네스의 체|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%86%8C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.java)
-|{2022-12-11}|배선영|[골드바흐의 추측](https://www.acmicpc.net/problem/6588)|에라토스테네스의 체|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1.java)
+|2022-12-11|배선영|[골드바흐의 추측](https://www.acmicpc.net/problem/6588)|에라토스테네스의 체|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%20%EC%B6%94%EC%B8%A1.java)
 --------------------------------------
 
 
