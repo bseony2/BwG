@@ -20,8 +20,8 @@
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
-|{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-05|황서영|[아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%95%84%EC%9D%B4%EC%8A%A4%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8.java)
+|2022-12-06|황서영|[양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%96%91%EA%BC%AC%EC%B9%98.java)
 |2022-12-11|김서연|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/LeetCode/L12_Integer_to_Roman.java)
 |2022-12-11|김서연|[완전제곱](https://www.acmicpc.net/problem/6131)|브루트포스|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B6131_%EC%99%84%EC%A0%84%EC%A0%9C%EA%B3%B1%EC%88%98.java)
 |{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
