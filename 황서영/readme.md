@@ -43,3 +43,8 @@
 
 * [아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)  
 * [양꼬치](https://school.programmers.co.kr/learn/courses/30/lessons/120830)
+
+#### ✓ 12월 1주차
+
+* [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115)
+* [조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)
