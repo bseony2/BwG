@@ -23,7 +23,7 @@
 |2022-12-16|황서영| [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/1216_%EA%B0%80%EA%B2%A9%EC%9D%B4_%EC%A0%9C%EC%9D%BC_%EB%B9%84%EC%8B%BC_%EC%8B%9D%ED%92%88%EC%9D%98_%EC%A0%95%EB%B3%B4_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
 |2022-12-16|황서영|[조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/1216_%EC%A1%B0%EA%B1%B4%EB%B3%84%EB%A1%9C_%EB%B6%84%EB%A5%98%ED%95%98%EC%97%AC_%EC%A3%BC%EB%AC%B8%EC%83%81%ED%83%9C_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
 |2022-12-18|김서연|[최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/sql/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
-|2022-12-18|김서연|[내 학점을 구해](https://www.acmicpc.net/problem/10984)|구|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B10984_%EB%82%B4_%ED%95%99%EC%A0%90%EC%9D%84_%EA%B5%AC%ED%95%B4%EC%A4%98.java)
+|2022-12-18|김서연|[내 학점을 구해](https://www.acmicpc.net/problem/10984)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B10984_%EB%82%B4_%ED%95%99%EC%A0%90%EC%9D%84_%EA%B5%AC%ED%95%B4%EC%A4%98.java)
 |{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
