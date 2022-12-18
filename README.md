@@ -32,8 +32,8 @@
 |{날짜}|김예찬|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-18|배선영|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%8A%9C%ED%94%8C.java)
+|2022-12-18|배선영|[행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java)
 --------------------------------------
 
 <details>
