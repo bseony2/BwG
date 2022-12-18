@@ -30,8 +30,8 @@
 |{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |2022-12-18|김예찬|[벽부수고 이동](https://www.acmicpc.net/problem/2206)|BFS|[내 풀이]({URL})
 |2022-12-18|김예찬|[여행가자](https://www.acmicpc.net/problem/1976)|유니온파인드|[내 풀이]({URL})
-|{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-18|김병준|[분해합](https://www.acmicpc.net/problem/2231)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p1065.java)
+|2022-12-18|김병준|[한수](https://www.acmicpc.net/problem/1065)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p2231.java)
 |2022-12-18|배선영|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%8A%9C%ED%94%8C.java)
 |2022-12-18|배선영|[행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java)
 --------------------------------------
