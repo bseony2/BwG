@@ -48,3 +48,7 @@
 
 * [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115)
 * [조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)
+
+#### ✓ 12월 3주차
+
+* [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
