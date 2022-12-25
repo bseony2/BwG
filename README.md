@@ -16,11 +16,34 @@
 
 ### 12월  
 
-12월3째주 (2022-12-12 ~ 2022-12-18)
+12월4째주 (2022-12-19 ~ 2022-12-25) 
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
-|2022-12-16|황서영| [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/1216_%EA%B0%80%EA%B2%A9%EC%9D%B4_%EC%A0%9C%EC%9D%BC_%EB%B9%84%EC%8B%BC_%EC%8B%9D%ED%92%88%EC%9D%98_%EC%A0%95%EB%B3%B4_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
+|2022-12-24|황서영|[숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%88%AB%EC%9E%90%EC%A7%9D%EA%BF%8D_1224.java)
+|2022-12-25|황서영|[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)|Stack|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EA%B3%BC%EC%9D%BC%EC%9E%A5%EC%88%98_1225.java)
+|{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|김예찬|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|김예찬|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+--------------------------------------
+
+
+<details>
+<summary>12월3째주 (2022-12-12 ~ 2022-12-18)</summary>
+<div markdown="1">
+
+|날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
+|-----|-----|-----|-----|-----|
+|2022-12-16|황서영|[가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/1216_%EA%B0%80%EA%B2%A9%EC%9D%B4_%EC%A0%9C%EC%9D%BC_%EB%B9%84%EC%8B%BC_%EC%8B%9D%ED%92%88%EC%9D%98_%EC%A0%95%EB%B3%B4_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
 |2022-12-16|황서영|[조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/1216_%EC%A1%B0%EA%B1%B4%EB%B3%84%EB%A1%9C_%EB%B6%84%EB%A5%98%ED%95%98%EC%97%AC_%EC%A3%BC%EB%AC%B8%EC%83%81%ED%83%9C_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
 |2022-12-18|김서연|[최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/sql/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
 |2022-12-18|김서연|[내 학점을 구해줘](https://www.acmicpc.net/problem/10984)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B10984_%EB%82%B4_%ED%95%99%EC%A0%90%EC%9D%84_%EA%B5%AC%ED%95%B4%EC%A4%98.java)
@@ -35,6 +58,8 @@
 |2022-12-18|배선영|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%8A%9C%ED%94%8C.java)
 |2022-12-18|배선영|[행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%96%89%EB%A0%AC%20%ED%85%8C%EB%91%90%EB%A6%AC%20%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0.java)
 --------------------------------------
+</div>
+</details>
 
 <details>
 <summary>12월2째주 (2022-12-05 ~ 2022-12-11)</summary>
