@@ -52,3 +52,4 @@
 #### ✓ 12월 3주차
 
 * [숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
+* [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)
