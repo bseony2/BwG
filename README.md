@@ -32,8 +32,8 @@
 |{날짜}|김예찬|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-25|배선영|[사탕게임](https://www.acmicpc.net/problem/3085)|구현, 완전탐색|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%82%AC%ED%83%95%EA%B2%8C%EC%9E%84.java)
+|2022-12-25|배선영|[날짜계산](https://www.acmicpc.net/problem/1476)|완전탐색|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EB%82%A0%EC%A7%9C%EA%B3%84%EC%82%B0.java)
 --------------------------------------
 
 
