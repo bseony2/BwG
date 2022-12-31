@@ -14,27 +14,53 @@
 
 ## ✏️ 문제들
 
+
 ### 12월  
 
-12월4째주 (2022-12-19 ~ 2022-12-25) 
+12월마지막주주 (2022-12-26 ~ 2023-01-01)
+
+|날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
+|-----|-----|-----|-----|-----|
+|{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-31|김예찬|[게임맵최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/%EA%B2%8C%EC%9E%84%EB%A7%B5%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.java)
+|2022-12-31|김예찬|[정수삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.java)
+|{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-30|배선영|[집합](https://www.acmicpc.net/problem/11723)|비트 마스킹|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%A7%91%ED%95%A9.java)
+--------------------------------------
+
+
+<details>
+<summary>12월4째주 (2022-12-19 ~ 2022-12-25) </summary>
+<div markdown="1">
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
 |2022-12-24|황서영|[숫자 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/131128)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%88%AB%EC%9E%90%EC%A7%9D%EA%BF%8D_1224.java)
 |2022-12-25|황서영|[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)|Stack|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EA%B3%BC%EC%9D%BC%EC%9E%A5%EC%88%98_1225.java)
-|{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-25|김서연|[인기있는 아이스크림](https://school.programmers.co.kr/learn/courses/30/lessons/133024)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/sql/%EC%9D%B8%EA%B8%B0%EC%9E%88%EB%8A%94_%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC.sql)
+|2022-12-25|김서연|[약수](https://www.acmicpc.net/problem/1037)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B1037_%EC%95%BD%EC%88%98.java)
+|2022-12-25|신승혁|[조건에 맞는 도서와 저자 리스트 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/144854)|SQL|[내풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%EC%A1%B0%EA%B1%B4%EC%97%90%20%EB%A7%9E%EB%8A%94%20%EB%8F%84%EC%84%9C%EC%99%80%20%EC%A0%80%EC%9E%90%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.SQL)
+|2022-12-25|신승혁|[가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115?language=oracle)|SQL|[내풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%EA%B0%80%EA%B2%A9%EC%9D%B4%EC%A0%9C%EC%9D%BC%EB%B9%84%EC%8B%BC%EC%8B%9D%ED%92%88%EC%9D%98%EC%A0%95%EB%B3%B4%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.SQL)
 |{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김예찬|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김예찬|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-25|김예찬|[연속합](https://www.acmicpc.net/problem/1912)|DP|[내 풀이](https://github.com/bseony2/BwG/commit/e71b4f3c6ab3cc386d7646bc37a38fac8e6b9462)
+|2022-12-25|김예찬|[1로만들기](https://www.acmicpc.net/problem/1463)|DP|[내 풀이](https://github.com/bseony2/BwG/commit/c81cc407fa26fc6b6e41b54b923e579820e13c18)
 |{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-25|배선영|[사탕게임](https://www.acmicpc.net/problem/3085)|구현, 완전탐색|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%82%AC%ED%83%95%EA%B2%8C%EC%9E%84.java)
+|2022-12-25|배선영|[날짜계산](https://www.acmicpc.net/problem/1476)|완전탐색|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EB%82%A0%EC%A7%9C%EA%B3%84%EC%82%B0.java)
 --------------------------------------
+</div>
+</details>
 
 
 <details>
