@@ -17,12 +17,12 @@
 
 ### 12월  
 
-12월마지막주주 (2022-12-26 ~ 2023-01-01)
+12월마지막주 (2022-12-26 ~ 2023-01-01)
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
-|{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|황서영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2022-12-31|황서영|[카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/1231_%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%B3%84%EC%83%81%ED%92%88%EA%B0%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.sql)
+|2022-12-31|황서영|[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|DFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%82%BC%EC%B4%9D%EC%82%AC_1231.java)
 |{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
