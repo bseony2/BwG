@@ -22,7 +22,7 @@
 |2022-12-31|황서영|[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|DFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%82%BC%EC%B4%9D%EC%82%AC_1231.java)
 |{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|2023-01-01|신승혁|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/42746_%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98.java)
+|2023-01-01|신승혁|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/42746_%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98.java)
 |2023-01-01|신승혁|[중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%EC%A4%91%EB%B3%B5%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.SQL)
 |{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
