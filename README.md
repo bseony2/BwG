@@ -28,8 +28,8 @@
 |{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |2022-12-31|김예찬|[게임맵최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/%EA%B2%8C%EC%9E%84%EB%A7%B5%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.java)
 |2022-12-31|김예찬|[정수삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.java)
-|{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2023-01-01|김병준|[1](https://www.acmicpc.net/problem/4375)|수학|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p4375.java)
+|2023-01-01|김병준|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|그리디|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p42862.java)
 |{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |2022-12-30|배선영|[집합](https://www.acmicpc.net/problem/11723)|비트 마스킹|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%A7%91%ED%95%A9.java)
 --------------------------------------
