@@ -14,12 +14,12 @@
 
 ### 1월
 
-12월 마지막주 (2022-12-26 ~ 2023-01-01)
+1월 1주차 (2023-01-02 ~ 2023-01-08)
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
-|날짜|황서영|[{문제}]()|SQL|[내 풀이]({링크})
-|날짜|황서영|[{문제}]()|SQL|[내 풀이]({링크})
+|2023-01-08|황서영|[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%BD%9C%EB%9D%BC%EB%AC%B8%EC%A0%9C_20230108.java)
+|2023-01-08|황서영|[2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)|-|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EB%AC%B8%EC%A0%9C_2016%EB%85%84_20230108.java)
 |날짜|김서연|[{문제}]()|SQL|[내 풀이]({링크})
 |날짜|김서연|[{문제}]()|SQL|[내 풀이]({링크})
 |날짜|신승혁|[{문제}]()|SQL|[내 풀이]({링크})
@@ -346,8 +346,6 @@
 |2022-10-16|안정석|[주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|스택/큐|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%95%88%EC%A0%95%EC%84%9D/Pro_Lv2_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.java)
 |2022-10-16|김병준|[안녕](https://www.acmicpc.net/problem/1535)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p1535.java)
 |2022-10-16|김병준|[합구하기](https://www.acmicpc.net/problem/11441)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p11441.java)
-
-##### 10월 2째 주 벌금자 : 송준석
 
 </div>
 </details>
