@@ -30,8 +30,8 @@
 |날짜|김예찬|[{문제}]()|SQL|[내 풀이]({링크})
 |날짜|김병준|[{문제}]()|SQL|[내 풀이]({링크})
 |날짜|김병준|[{문제}]()|SQL|[내 풀이]({링크})
-|날짜|배선영|[{문제}]()|SQL|[내 풀이]({링크})
-|날짜|배선영|[{문제}]()|SQL|[내 풀이]({링크})
+|2023-01-08|배선영|[2XN타일링](https://www.acmicpc.net/problem/11726)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%9D%B4xn%ED%83%80%EC%9D%BC%EB%A7%81.java)
+|2023-01-08|배선영|[동물원](https://www.acmicpc.net/problem/1309)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EB%8F%99%EB%AC%BC%EC%9B%90.java)
 
 <br>
 
