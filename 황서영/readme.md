@@ -58,4 +58,9 @@
 
 💡 [깊이 우선 탐색(DFS)이란](https://gmlwjd9405.github.io/2018/08/14/algorithm-dfs.html)
 * [카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529)
-* [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)
+* [삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)  
+
+#### ✓ 1월 1주차
+
+* [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
+* [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)
