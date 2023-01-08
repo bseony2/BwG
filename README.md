@@ -12,9 +12,36 @@
 ## ✏️ 문제들
 
 
-### 12월  
+### 1월
 
 12월 마지막주 (2022-12-26 ~ 2023-01-01)
+
+|날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
+|-----|-----|-----|-----|-----|
+|날짜|황서영|[{문제}]()|SQL|[내 풀이]({링크})
+|날짜|황서영|[{문제}]()|SQL|[내 풀이]({링크})
+|날짜|김서연|[{문제}]()|SQL|[내 풀이]({링크})
+|날짜|김서연|[{문제}]()|SQL|[내 풀이]({링크})
+|날짜|신승혁|[{문제}]()|SQL|[내 풀이]({링크})
+|날짜|신승혁|[{문제}]()|SQL|[내 풀이]({링크})
+|날짜|송준석|[{문제}]()|SQL|[내 풀이]({링크})
+|날짜|송준석|[{문제}]()|SQL|[내 풀이]({링크})
+|날짜|김예찬|[{문제}]()|SQL|[내 풀이]({링크})
+|날짜|김예찬|[{문제}]()|SQL|[내 풀이]({링크})
+|날짜|김병준|[{문제}]()|SQL|[내 풀이]({링크})
+|날짜|김병준|[{문제}]()|SQL|[내 풀이]({링크})
+|날짜|배선영|[{문제}]()|SQL|[내 풀이]({링크})
+|날짜|배선영|[{문제}]()|SQL|[내 풀이]({링크})
+
+<br>
+
+
+### 12월  
+
+<details>
+<summary> 12월 마지막주 (2022-12-26 ~ 2023-01-01) </summary>
+<div markdown="1">
+
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
@@ -22,18 +49,19 @@
 |2022-12-31|황서영|[삼총사](https://school.programmers.co.kr/learn/courses/30/lessons/131705)|DFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%82%BC%EC%B4%9D%EC%82%AC_1231.java)
 |{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|김서연|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|신승혁|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2023-01-01|신승혁|[가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/42746_%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98.java)
+|2023-01-01|신승혁|[중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%EC%A4%91%EB%B3%B5%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.SQL)
 |{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |{날짜}|송준석|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
 |2022-12-31|김예찬|[게임맵최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/%EA%B2%8C%EC%9E%84%EB%A7%B5%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.java)
 |2022-12-31|김예찬|[정수삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.java)
-|{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|김병준|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
-|{날짜}|배선영|[{문제명}]({URL})|{알고리즘}|[내 풀이]({URL})
+|2023-01-01|김병준|[1](https://www.acmicpc.net/problem/4375)|수학|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p4375.java)
+|2023-01-01|김병준|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)|그리디|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p42862.java)
+|2023-01-01|배선영|[부분수열의 합](https://www.acmicpc.net/problem/1182)|부르트포스|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A9.java)
 |2022-12-30|배선영|[집합](https://www.acmicpc.net/problem/11723)|비트 마스킹|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%A7%91%ED%95%A9.java)
 --------------------------------------
-
+</div>
+</details>
 
 <details>
 <summary>12월4째주 (2022-12-19 ~ 2022-12-25) </summary>
