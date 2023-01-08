@@ -20,10 +20,8 @@
 |-----|-----|-----|-----|-----|
 |2023-01-08|황서영|[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%BD%9C%EB%9D%BC%EB%AC%B8%EC%A0%9C_20230108.java)
 |2023-01-08|황서영|[2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)|-|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EB%AC%B8%EC%A0%9C_2016%EB%85%84_20230108.java)
-|2023-01-08|김서연|[3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120
-)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/sql/3%EC%9B%94%EC%97%90_%ED%83%9C%EC%96%B4%EB%82%9C_%EC%97%AC%EC%84%B1_%ED%9A%8C%EC%9B%90_%EB%AA%A9%EB%A1%9D_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
-|2023-01-08|김서연|[성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026
-)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/sql/%EC%84%B1%EB%B6%84%EC%9C%BC%EB%A1%9C_%EA%B5%AC%EB%B6%84%ED%95%9C_%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC_%EC%B4%9D_%EC%A3%BC%EB%AC%B8%EB%9F%89.sql)
+|2023-01-08|김서연|[3월에 태어난 여성 회원 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131120)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/sql/3%EC%9B%94%EC%97%90_%ED%83%9C%EC%96%B4%EB%82%9C_%EC%97%AC%EC%84%B1_%ED%9A%8C%EC%9B%90_%EB%AA%A9%EB%A1%9D_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
+|2023-01-08|김서연|[성분으로 구분한 아이스크림 총 주문량](https://school.programmers.co.kr/learn/courses/30/lessons/133026)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/sql/%EC%84%B1%EB%B6%84%EC%9C%BC%EB%A1%9C_%EA%B5%AC%EB%B6%84%ED%95%9C_%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC_%EC%B4%9D_%EC%A3%BC%EB%AC%B8%EB%9F%89.sql)
 |날짜|신승혁|[{문제}]()|SQL|[내 풀이]({링크})
 |날짜|신승혁|[{문제}]()|SQL|[내 풀이]({링크})
 |날짜|송준석|[{문제}]()|SQL|[내 풀이]({링크})
