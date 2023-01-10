@@ -31,7 +31,7 @@
 |2023-01-10|김병준|[사탕게임](https://www.acmicpc.net/problem/3085)|브루트포스|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p3085.java)
 |날짜|김병준|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
 |날짜|배선영|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
-|날짜|배선영|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
+|2023-01-10|배선영|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%89%AC%EC%9A%B4%EA%B3%84%EB%8B%A8%EC%88%98.java)
 
 <details>
 <summary> 1월 1주차 (2023-01-02 ~ 2023-01-08) </summary>
