@@ -23,7 +23,7 @@
 |날짜|김서연|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
 |날짜|김서연|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
 |2023-01-10|신승혁|[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/Solution_42898_%EB%93%B1%EA%B5%A3%EA%B8%B8.java)
-|날짜|신승혁|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
+|2023-01-15|신승혁|[치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/Solution_120884_%EC%B9%98%ED%82%A8%EC%BF%A0%ED%8F%B0.java)
 |날짜|송준석|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
 |날짜|송준석|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
 |날짜|김예찬|[가장긴감소하는부분수열](acmicpc.net/problem/11722)|DP|[내 풀이](https://github.com/bseony2/BwG/commit/52de5f135eb5b63715c47aadd633d65dd5a1e5ee)
