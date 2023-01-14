@@ -18,8 +18,8 @@
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
-|날짜|황서영|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
-|날짜|황서영|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
+|2023-01-14|황서영|[합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)|{알고리즘}|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%ED%95%A9%EC%84%B1%EC%88%98%EC%B0%BE%EA%B8%B0_20230114.java)
+|2023-01-14|황서영|[치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)|{알고리즘}|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%B9%98%ED%82%A8%EC%BF%A0%ED%8F%B0_20230114.java)
 |날짜|김서연|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
 |날짜|김서연|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
 |2023-01-10|신승혁|[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/Solution_42898_%EB%93%B1%EA%B5%A3%EA%B8%B8.java)
