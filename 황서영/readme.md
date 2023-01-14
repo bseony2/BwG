@@ -63,4 +63,9 @@
 #### ✓ 1월 1주차
 
 * [콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/132267)
-* [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901)
+* [2016년](https://school.programmers.co.kr/learn/courses/30/lessons/12901) 
+
+#### ✓ 1월 2주차
+
+* [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)
+* [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)
