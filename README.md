@@ -29,7 +29,7 @@
 |날짜|김예찬|[가장긴감소하는부분수열](acmicpc.net/problem/11722)|DP|[내 풀이](https://github.com/bseony2/BwG/commit/52de5f135eb5b63715c47aadd633d65dd5a1e5ee)
 |날짜|김예찬|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|DP|[내 풀이]({풀이링크})
 |2023-01-10|김병준|[사탕게임](https://www.acmicpc.net/problem/3085)|브루트포스|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p3085.java)
-|날짜|김병준|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
+|2023-01-15|김병준|[동전1](https://www.acmicpc.net/problem/2293)|dp1|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p2293.java)
 |2023-01-14|배선영|[가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%EA%B0%90%EC%86%8C%ED%95%98%EB%8A%94%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4.java)
 |2023-01-10|배선영|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%89%AC%EC%9A%B4%EA%B3%84%EB%8B%A8%EC%88%98.java)
 
