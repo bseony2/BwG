@@ -20,8 +20,8 @@
 |-----|-----|-----|-----|-----|
 |2023-01-14|황서영|[합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)|{알고리즘}|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%ED%95%A9%EC%84%B1%EC%88%98%EC%B0%BE%EA%B8%B0_20230114.java)
 |2023-01-14|황서영|[치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)|{알고리즘}|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/%EC%B9%98%ED%82%A8%EC%BF%A0%ED%8F%B0_20230114.java)
-|날짜|김서연|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
-|날짜|김서연|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
+|2023-01-15|김서연|[가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/59043)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/sql/%EA%B0%80%EA%B2%A9%EC%9D%B4_%EC%A0%9C%EC%9D%BC_%EB%B9%84%EC%8B%BC_%EC%8B%9D%ED%92%88%EC%9D%98_%EC%A0%95%EB%B3%B4_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
+|2023-01-15|김서연|[있었는데요 없었습니다](https://school.programmers.co.kr/learn/courses/30/lessons/131115)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/sql/%EC%9E%88%EC%97%88%EB%8A%94%EB%8D%B0%EC%9A%94_%EC%97%86%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4.sql)
 |2023-01-10|신승혁|[등굣길](https://school.programmers.co.kr/learn/courses/30/lessons/42898)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/Solution_42898_%EB%93%B1%EA%B5%A3%EA%B8%B8.java)
 |2023-01-15|신승혁|[치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/Solution_120884_%EC%B9%98%ED%82%A8%EC%BF%A0%ED%8F%B0.java)
 |날짜|송준석|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
