@@ -28,8 +28,8 @@
 |{날짜}|송준석|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
 |{날짜}|김예찬|[파도반수열](https://www.acmicpc.net/problem/9461)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-9461.java)
 |{날짜}|김예찬|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-2667.java)
-|{날짜}|김병준|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
-|{날짜}|김병준|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
+|2023-01-17|김병준|[로또](https://www.acmicpc.net/problem/6603)|DFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p20154.java)
+|2023-01-22|김병준|[이 구역의 승자는 누구야?!](https://www.acmicpc.net/problem/20154)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p6603.java)
 |2023-01-19|배선영|[숨바꼭질](https://www.acmicpc.net/problem/1697)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.java)
 |2023-01-22|배선영|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EB%A7%A5%EC%A3%BC%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0.java)
 
