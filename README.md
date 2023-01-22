@@ -18,12 +18,12 @@
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
-|{날짜}|황서영|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
-|{날짜}|황서영|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
+|2023-01-20|황서영|[식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/0120_%EC%8B%9D%ED%92%88%EB%B6%84%EB%A5%98%EB%B3%84_%EA%B0%80%EC%9E%A5_%EB%B9%84%EC%8B%BC_%EC%8B%9D%ED%92%88%EC%9D%98_%EC%A0%95%EB%B3%B4_%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
+|2023-01-20|황서영|[5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%ED%99%A9%EC%84%9C%EC%98%81/5%EC%9B%94_%EC%8B%9D%ED%92%88%EB%93%A4%EC%9D%98_%EC%B4%9D%EB%A7%A4%EC%B6%9C_%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0_0120.sql)
 |{날짜}|김서연|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
 |{날짜}|김서연|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
 |2023-01-18|신승혁|[보석도둑](https://www.acmicpc.net/problem/1202)|그리디|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/BOJ_1202_%EB%B3%B4%EC%84%9D%EB%8F%84%EB%91%91_2%ED%8A%B8.java)
-|{날짜}|신승혁|[숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12987)|{알고리즘}|[내 풀이]({풀이링크})
+|2023-01-20|신승혁|[숫자게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987)|그리디|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/Solution_12987_%EC%88%AB%EC%9E%90%EA%B2%8C%EC%9E%84.java)
 |{날짜}|송준석|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
 |{날짜}|송준석|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
 |{날짜}|김예찬|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})

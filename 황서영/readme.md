@@ -69,3 +69,8 @@
 
 * [합성수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/120846)
 * [치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)
+
+#### ✓ 1월 3주차
+
+* [식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116)
+* [5월 식품들의 총매출 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131117)
