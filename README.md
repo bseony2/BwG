@@ -31,7 +31,7 @@
 |{날짜}|김병준|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
 |{날짜}|김병준|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
 |2023-01-19|배선영|[숨바꼭질](https://www.acmicpc.net/problem/1697)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88.java)
-|{날짜}|배선영|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이링크})
+|2023-01-22|배선영|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EB%A7%A5%EC%A3%BC%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0.java)
 
 
 
