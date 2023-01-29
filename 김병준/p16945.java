@@ -62,7 +62,10 @@ public class p16945 {
         int diagonalSum0 = arr[0][0] + arr[1][1] + arr[2][2];
         int diagonalSum1 = arr[2][0] + arr[1][1] + arr[0][2];
 
-        if(rowSum0 == colSum0 && rowSum1 == colSum1 && rowSum2 == colSum2 && diagonalSum0 == diagonalSum1) return true;
-        else return false;
+        if(rowSum0 != 15 || rowSum1 != 15 || rowSum2 != 15) return false;
+        if(colSum0 != 15 || colSum1 != 15 || colSum2 != 15) return false;
+        if(diagonalSum0 != 15 || diagonalSum1 != 15) return false;
+        
+        return true;
     }
 }
