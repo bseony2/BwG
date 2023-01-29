@@ -29,8 +29,8 @@
 |{날짜}|송준석|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
 |{날짜}|김예찬|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
 |{날짜}|김예찬|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
-|{날짜}|김병준|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
-|{날짜}|김병준|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
+|2023-01-29|김병준|[매직 스퀘어로 변경하기](https://www.acmicpc.net/problem/16945)|브루트포스|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p16945.java)
+|2023-01-29|김병준|[블록놀이](https://www.acmicpc.net/problem/16951)|브루트포스|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p16951.java)
 |2023-01-25|배선영|[상자넣기](https://www.acmicpc.net/problem/1965)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%83%81%EC%9E%90%EB%84%A3%EA%B8%B0.java)
 |2023-01-27|배선영|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|그래프|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.java)
 
