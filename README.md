@@ -21,8 +21,8 @@
 |-----|-----|-----|-----|-----|
 |{날짜}|황서영|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
 |{날짜}|황서영|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
-|{날짜}|김서연|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
-|{날짜}|김서연|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
+|2023-01-29|김서연|[1,2,3 더하](https://www.acmicpc.net/problem/9095)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B9095_123%EB%8D%94%ED%95%98%EA%B8%B0.java)
+|2023-01-29|김서연|[즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/sql/%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0%EA%B0%80_%EA%B0%80%EC%9E%A5_%EB%A7%8E%EC%9D%80_%EC%8B%9D%EB%8B%B9_%EC%A0%95%EB%B3%B4_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
 |2023-01-25|신승혁|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/BOJ_2667_%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.java)
 |2023-01-25|신승혁|[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|그리디|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/Solution_42884_%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.java)
 |{날짜}|송준석|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
