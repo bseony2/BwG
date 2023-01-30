@@ -21,18 +21,18 @@
 |-----|-----|-----|-----|-----|
 |{날짜}|황서영|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
 |{날짜}|황서영|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
-|{날짜}|김서연|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
-|{날짜}|김서연|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
-|{날짜}|신승혁|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
-|{날짜}|신승혁|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
+|2023-01-29|김서연|[1,2,3 더하기](https://www.acmicpc.net/problem/9095)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B9095_123%EB%8D%94%ED%95%98%EA%B8%B0.java)
+|2023-01-29|김서연|[즐겨찾기가 가장 많은 식당 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131123)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/sql/%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0%EA%B0%80_%EA%B0%80%EC%9E%A5_%EB%A7%8E%EC%9D%80_%EC%8B%9D%EB%8B%B9_%EC%A0%95%EB%B3%B4_%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)
+|2023-01-25|신승혁|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/BOJ_2667_%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.java)
+|2023-01-25|신승혁|[단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)|그리디|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/Solution_42884_%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.java)
 |{날짜}|송준석|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
 |{날짜}|송준석|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
-|{날짜}|김예찬|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
-|{날짜}|김예찬|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
-|{날짜}|김병준|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
-|{날짜}|김병준|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
-|{날짜}|황서영|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
-|{날짜}|황서영|[{문제명}]({문제링크})|{알고리즘}|[내 풀이]({풀이 링크})
+|2023-01-29|김예찬|[두 용액](https://www.acmicpc.net/problem/2470)|투포인터|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-2470.java)
+|2023-01-29|김예찬|[집합의 표현](https://www.acmicpc.net/problem/1717)|유니온파인드|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-1717.java)
+|2023-01-29|김병준|[매직 스퀘어로 변경하기](https://www.acmicpc.net/problem/16945)|브루트포스|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p16945.java)
+|2023-01-29|김병준|[블록놀이](https://www.acmicpc.net/problem/16951)|브루트포스|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p16951.java)
+|2023-01-25|배선영|[상자넣기](https://www.acmicpc.net/problem/1965)|DP|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%83%81%EC%9E%90%EB%84%A3%EA%B8%B0.java)
+|2023-01-27|배선영|[단지번호붙이기](https://www.acmicpc.net/problem/2667)|그래프|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0.java)
 
 <details>
 <summary> 1월 3주차 (2023-01-16 ~ 2023-01-22) </summary>
