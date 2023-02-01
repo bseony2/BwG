@@ -21,7 +21,6 @@ public class p15501 {
 
         inputValueSetting(br);
 
-
         if(solution()){
             System.out.println("good puzzle");
         } else{
