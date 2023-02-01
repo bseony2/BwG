@@ -19,7 +19,7 @@
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
-|날짜|김서연|[문제]()|알고리즘|[내 풀이]({링크})
+|2023-02-02|김서연|[스택](https://www.acmicpc.net/problem/10828)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B10828_%EC%8A%A4%ED%83%9D.java)
 |날짜|김서연|[문제]()|알고리즘|[내 풀이]({링크})
 |2023-01-30|신승혁|[야근지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/Solution_12927_%EC%95%BC%EA%B7%BC%EC%A7%80%EC%88%98.java)
 |날짜|신승혁|[문제]()|알고리즘|[내 풀이]({링크})
