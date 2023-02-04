@@ -22,7 +22,7 @@
 |2023-02-02|김서연|[스택](https://www.acmicpc.net/problem/10828)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B10828_%EC%8A%A4%ED%83%9D.java)
 |날짜|김서연|[문제]()|알고리즘|[내 풀이]({링크})
 |2023-01-30|신승혁|[야근지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/Solution_12927_%EC%95%BC%EA%B7%BC%EC%A7%80%EC%88%98.java)
-|날짜|신승혁|[문제]()|알고리즘|[내 풀이]({링크})
+|2023-02-04|신승혁|[조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113?language=oracle)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%EC%A1%B0%EA%B1%B4%EB%B3%84%EB%A1%9C%20%EB%B6%84%EB%A5%98%ED%95%98%EC%97%AC%20%EC%A3%BC%EB%AC%B8%EC%83%81%ED%83%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.SQL)
 |날짜|송준석|[문제]()|알고리즘|[내 풀이]({링크})
 |날짜|송준석|[문제]()|알고리즘|[내 풀이]({링크})
 |2023-02-03|김예찬|[알파벳](https://www.acmicpc.net/problem/1987)|DFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-1987.java)
