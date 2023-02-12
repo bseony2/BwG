@@ -25,7 +25,7 @@
 |2023-02-12|김병준|[안전영역](https://www.acmicpc.net/problem/2468)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p2468.java)
 |2023-02-12|김병준|[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)|시뮬레이션|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p20055.java)
 |2023-02-10|김예찬|[안전영역](https://www.acmicpc.net/problem/2468)|DFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/BJ-2468.java)
-|날짜|김예찬|[문제]()|알고리즘|[내 풀이]({링크})
+|2023-02-12|김예찬|[회전초밥](https://www.acmicpc.net/problem/2531)|구현|[내 풀이](https://github.com/bseony2/BwG/commit/b89c8e652234c32d9c9d40af9adb5ad642cc15d5)
 |날짜|송준석|[문제]()|알고리즘|[내 풀이]({링크})
 |날짜|송준석|[문제]()|알고리즘|[내 풀이]({링크})
 |2023-02-11|배선영|[안전영역](https://www.acmicpc.net/problem/2468)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%95%88%EC%A0%84%EC%98%81%EC%97%AD.java)
