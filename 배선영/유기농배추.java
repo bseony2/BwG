@@ -35,7 +35,7 @@ public class 유기농배추 {
             for(int i=0; i<N; i++) {
                 for(int j=0; j<M; j++) {
                     if(map[i][j] == 1 && !isVisited[i][j]) {
-                        bfs(i, j);
+                        dfs(i, j);
                         answer++;
                     }
                 }
@@ -63,6 +63,20 @@ public class 유기농배추 {
                     if(!isVisited[ny][nx] && map[ny][nx] == 1){
                         q.add(new int[] {ny, nx});
                     }
+                }
+            }
+        }
+    }
+
+    static void dfs(int y, int x) {
+        isVisited[y][x] = true;
+        for(int t=0; t<4; t++) {
+            int ny = y + dy[t];
+            int nx = x + dx[t];
+
+            if(0 <= ny && ny < N && 0 <= nx && nx <M) {
+                if(!isVisited[ny][nx] && map[ny][nx] == 1){
+                    dfs(ny, nx);
                 }
             }
         }
