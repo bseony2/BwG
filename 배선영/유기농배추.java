@@ -35,7 +35,8 @@ public class 유기농배추 {
             for(int i=0; i<N; i++) {
                 for(int j=0; j<M; j++) {
                     if(map[i][j] == 1 && !isVisited[i][j]) {
-                        dfs(i, j);
+                        //dfs(i, j);
+                        bfs(i, j);
                         answer++;
                     }
                 }
@@ -47,11 +48,11 @@ public class 유기농배추 {
     static void bfs(int y, int x) {
         Queue<int[]> q = new LinkedList<int[]>();
         q.add(new int[] {y, x});
+        isVisited[y][x] = true;
 
         while(!q.isEmpty()) {
             y = q.peek()[0];
             x = q.peek()[1];
-            isVisited[y][x] = true;
 
             q.poll();
 
@@ -61,6 +62,7 @@ public class 유기농배추 {
 
                 if(0 <= ny && ny < N && 0 <= nx && nx <M) {
                     if(!isVisited[ny][nx] && map[ny][nx] == 1){
+                        isVisited[ny][nx] = true;
                         q.add(new int[] {ny, nx});
                     }
                 }
