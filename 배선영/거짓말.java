@@ -14,10 +14,6 @@ public class 거짓말 {
     static int[] party;
 
     public static void main(String[] args) throws IOException {
-        _input();
-    }
-
-    private static void _input() throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
@@ -51,7 +47,7 @@ public class 거짓말 {
 
         int answer = 0;
         for(int p : party) {
-            if(known[p]) answer++;
+            if(!known[_find(p)]) answer++;
         }
 
         System.out.println(answer);
