@@ -18,8 +18,8 @@
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
-|날짜|김서연|[문제]()|알고리즘|[내 풀이]({링크})
-|날짜|김서연|[문제]()|알고리즘|[내 풀이]({링크})
+|2023-02-19|김서연|[팬그램](https://www.acmicpc.net/problem/5704)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B5704_%ED%8C%AC%EA%B7%B8%EB%9E%A8.java)
+|2023-02-19|김서연|[문자열 분석](https://www.acmicpc.net/problem/10820)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B10820_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%B6%84%EC%84%9D.java)
 |날짜|신승혁|[문제]()|알고리즘|[내 풀이]({링크})
 |날짜|신승혁|[문제]()|알고리즘|[내 풀이]({링크})
 |날짜|김병준|[문제]()|알고리즘|[내 풀이]({링크})
