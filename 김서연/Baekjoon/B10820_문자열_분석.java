@@ -30,7 +30,7 @@ public class B10820_문자열_분석 {
                 if (str.charAt(i) == ' ') {
                     arr[3] += 1;
                 }
-            }
+            } 
             for(int i : arr) sb.append(i).append(" ");
 
             System.out.println(sb);
