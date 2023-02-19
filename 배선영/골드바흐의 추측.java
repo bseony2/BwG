@@ -3,9 +3,8 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.ArrayList;
-import java.lang.Math;
 
-public class Main {
+public class 골드바흐의 추측 {
     static String BAD_ANSWER = "Goldbach's conjecture is wrong.";
 
     static boolean[] isPrime = new  boolean[1000001];
@@ -20,13 +19,12 @@ public class Main {
                 return;
             System.out.println(printAnswer(testCase));
         }
-        
     }
 
     static void getPrime() { // 소수 구하기
         Arrays.fill(isPrime, true);
 
-        for(int i=2; i<Math.sqrt((isPrime.length/2) + 1); i++) {
+        for(int i=2; i<(isPrime.length/2) + 1; i++) {
 
             if(!isPrime[i]) continue;
             arr.add(i);
