@@ -20,8 +20,8 @@
 |-----|-----|-----|-----|-----|
 |2023-02-19|김서연|[팬그램](https://www.acmicpc.net/problem/5704)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B5704_%ED%8C%AC%EA%B7%B8%EB%9E%A8.java)
 |2023-02-19|김서연|[문자열 분석](https://www.acmicpc.net/problem/10820)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B10820_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%B6%84%EC%84%9D.java)
-|날짜|신승혁|[문제]()|알고리즘|[내 풀이]({링크})
-|날짜|신승혁|[문제]()|알고리즘|[내 풀이]({링크})
+|2023-02-19|신승혁|[문제](https://www.acmicpc.net/problem/1157)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/BOJ_1157_%EB%8B%A8%EC%96%B4%EA%B3%B5%EB%B6%80.java)
+|2023-02-19|신승혁|[문제](https://school.programmers.co.kr/learn/courses/30/lessons/157340)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%EC%97%90%EC%84%9C%20%EB%8C%80%EC%97%AC%20%EA%B0%80%EB%8A%A5%20%EC%97%AC%EB%B6%80%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0.SQL)
 |날짜|김병준|[문제]()|알고리즘|[내 풀이]({링크})
 |날짜|김병준|[문제]()|알고리즘|[내 풀이]({링크})
 |날짜|김예찬|[문제]()|알고리즘|[내 풀이]({링크})
