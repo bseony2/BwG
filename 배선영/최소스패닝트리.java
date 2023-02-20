@@ -7,8 +7,6 @@ import java.util.Arrays;
 
 public class 최소스패닝트리 {
     static int parent[];
-    static int V;
-    static int E;
 
     static boolean isUnion(int x, int y) {
         return x == parent[y] || y == parent[x] || (parent[y] != -1 && parent[y] == parent[x]);
@@ -41,6 +39,9 @@ public class 최소스패닝트리 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 
+        int V = 0;
+        int E = 0;
+        
         V = Integer.parseInt(st.nextToken());
         E = Integer.parseInt(st.nextToken());
         ArrayList<int[]> pQ = new ArrayList<int[]>();
@@ -55,11 +56,10 @@ public class 최소스패닝트리 {
             pQ.add(new int[] {v1, v2, edge});
         }
 
-        pQ.sort((a, b) -> b[2] - a[2]);
+        pQ.sort((a, b) -> a[2] - b[2]);
 
         parent = new int[V + 1];
         Arrays.fill(parent, -1);
-
         for(int i = 0 ; i<E; i++) {
             int[] arr = pQ.get(i);
 
