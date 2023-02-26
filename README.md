@@ -18,8 +18,8 @@
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
-|날짜|김서연|[문제]()|알고리즘|[내 풀이]()
-|날짜|김서연|[문제]()|알고리즘|[내 풀이]()
+|2023-02-26|김서연|[복붙의 달인](https://www.acmicpc.net/problem/11008)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B11008_%EB%B3%B5%EB%B6%99%EC%9D%98_%EB%8B%AC%EC%9D%B8.java)
+|2023-02-26|김서연|[플러그](https://www.acmicpc.net/problem/2010)|수|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B2010_%ED%94%8C%EB%9F%AC%EA%B7%B8.java)
 |날짜|김예찬|[문제]()|알고리즘|[내 풀이]()
 |날짜|김예찬|[문제]()|알고리즘|[내 풀이]()
 |날짜|송준석|[문제]()|알고리즘|[내 풀이]()
