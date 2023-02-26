@@ -20,5 +20,5 @@ public class B2010_플러그 {
         }
 
         System.out.println(rslt);
-    }
+    } 
 }
