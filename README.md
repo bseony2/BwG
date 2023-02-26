@@ -24,8 +24,8 @@
 |날짜|김예찬|[문제]()|알고리즘|[내 풀이]()
 |날짜|송준석|[문제]()|알고리즘|[내 풀이]()
 |날짜|송준석|[문제]()|알고리즘|[내 풀이]()
-|날짜|김병준|[문제]()|알고리즘|[내 풀이]()
-|날짜|김병준|[문제]()|알고리즘|[내 풀이]()
+|2023-02-26|김병준|[섬의 개수](https://www.acmicpc.net/problem/4963)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p4693.java)
+|2023-02-26|김병준|[효율적인 해킹](https://www.acmicpc.net/problem/1325)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p1325.java)
 |2023-02-20|배선영|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|최소 신장 트리|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC.java)
 |날짜|배선영|[문제]()|알고리즘|[내 풀이]()
 
