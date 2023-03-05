@@ -11,10 +11,30 @@
 
 ## ✏️ 문제들
 
+### 3월  
+
+<summary> 3월 1주차 (2023-02-27 ~ 2023-03-05) </summary> <br>
+
+|날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
+|-----|-----|-----|-----|-----|
+|2023-03-05|김서연|[ATM](https://www.acmicpc.net/problem/11399)|정렬|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B11399_ATM.java)
+|2023-03-05|김서연|[상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/sql/%EC%83%81%EC%9C%84_n%EA%B0%9C_%EB%A0%88%EC%BD%94%EB%93%9C.sql)
+|날짜|김예찬|[문제]()|알고리즘|[내 풀이]()
+|날짜|김예찬|[문제]()|알고리즘|[내 풀이]()
+|날짜|송준석|[문제]()|알고리즘|[내 풀이]()
+|날짜|송준석|[문제]()|알고리즘|[내 풀이]()
+|날짜|김병준|[문제]()|알고리즘|[내 풀이]()
+|날짜|김병준|[문제]()|알고리즘|[내 풀이]()
+|날짜|배선영|[문제]()|알고리즘|[내 풀이]()
+|날짜|배선영|[문제]()|알고리즘|[내 풀이]()
+
+<br>
 
 ### 2월  
 
+<details>
 <summary> 2월 4주차 (2023-02-20 ~ 2023-02-26) </summary> <br>
+<div markdown="1"> <br>
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
@@ -28,6 +48,9 @@
 |2023-02-26|김병준|[효율적인 해킹](https://www.acmicpc.net/problem/1325)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p1325.java)
 |2023-02-20|배선영|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|최소 신장 트리|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC.java)
 |2023-02-26|배선영|[특정한 최단 경로](https://www.acmicpc.net/problem/1504)|다익스트라|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%8A%B9%EC%A0%95%ED%95%9C%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.java)
+
+</div>
+</details>
 
 
 <details>
