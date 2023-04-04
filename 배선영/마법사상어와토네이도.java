@@ -6,6 +6,10 @@ import java.util.StringTokenizer;
 
 public class 마법사상어와토네이도 {
 
+<<<<<<< HEAD
+=======
+    //static int[][] matrix;
+>>>>>>> 29d3847c0f2db277910b4d4a270903ca46381317
     static int N;
     static int[] dr = new int[] {0, 1, 0, -1}; // 왼쪽, 아래, 오른쪽, 위
     static int[] dc = new int[] {-1, 0, 1, 0}; // 왼쪽, 아래, 오른쪽, 위
@@ -53,6 +57,10 @@ public class 마법사상어와토네이도 {
                 int nextVal = (matrix[r + dr[d]][c + dc[d]] * rate[i] / 100);
                 spreadedSand += nextVal;
                 if(!isValid(nr, nc)) continue;
+<<<<<<< HEAD
+=======
+                //System.out.println("r : " + r + " c : " + c + " d : " + d);
+>>>>>>> 29d3847c0f2db277910b4d4a270903ca46381317
                 
                 matrix[nr][nc] += nextVal;
             }
@@ -63,12 +71,25 @@ public class 마법사상어와토네이도 {
                 matrix[nr][nc] += matrix[r + dr[d]][c + dc[d]] - spreadedSand;
             }
 
+<<<<<<< HEAD
+=======
+            if(r == 0 && c == 0) break;
+>>>>>>> 29d3847c0f2db277910b4d4a270903ca46381317
             r = r + dr[d];
             c = c + dc[d];
             matrix[r][c] = 0;
             if( !isVisited[r + dr[(d+1)%4]][c + dc[(d+1)%4]] ) {
                 d = (d + 1) % 4;
             }
+<<<<<<< HEAD
+=======
+            // for(int i=0; i<N; i++) {
+            //     System.out.println();
+            //     for(int j=0; j<N; j++) {
+            //         System.out.print(matrix[i][j] + " ");
+            //     }
+            // }
+>>>>>>> 29d3847c0f2db277910b4d4a270903ca46381317
         }
 
         
