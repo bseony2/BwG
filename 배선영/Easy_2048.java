@@ -76,9 +76,10 @@ class Easy_2018 {
                             int temp = matrix[i][j];
                             matrix[i][j] = 0;
                             matrix[i][index++] = temp;
-                            block = matrix[i][j];
+                            block = temp;
                         } else {
                             matrix[i][index-1] = block*2;
+                            matrix[i][j] = 0;
                             block = 0;
                         }
                     }
@@ -96,9 +97,10 @@ class Easy_2018 {
                             int temp= matrix[j][i];
                             matrix[j][i] = 0;
                             matrix[index--][i]  = temp;
-                            block = matrix[j][i];
+                            block = temp;
                         } else {
-                            matrix[j+1][i] = block*2;
+                            matrix[index+1][i] = block*2;
+                            matrix[j][i] = 0;
                             block = 0;
                         }
                     }
@@ -116,10 +118,11 @@ class Easy_2018 {
                             int temp = matrix[i][j];
                             matrix[i][j] = 0;
                             matrix[i][index--] = temp;
-                            block = matrix[i][j];
+                            block = temp;
                         } else {
-                            matrix[i][index+1] = matrix[i][j];
-                            block = matrix[i][j];
+                            matrix[i][index+1] = block*2;
+                            matrix[i][j] = 0;
+                            block = 0;
                         }
                     }
                 }
