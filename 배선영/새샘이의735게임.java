@@ -16,10 +16,6 @@ class 새샘이의735게임 {
 
             dfs(intArr, queue, isVisited, 0, 0, 0);
             List<Integer> result = Stream.generate(queue::poll).limit(queue.size()).distinct().collect(Collectors.toList());
-
-            //List<Integer> result = queue.stream().distinct().collect(Collectors.toList());
-
-            //for(int a : result) System.out.println(a);
             System.out.println("#" + t + " " + result.get(4));
         }
     }
