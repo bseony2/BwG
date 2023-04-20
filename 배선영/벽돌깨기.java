@@ -41,7 +41,6 @@ class 벽돌깨기 {
             }
             // 게임 시작
             play(0);
-            //System.out.println("게임한번 끝 t : " + t + "N : " + N);
             sb.append("#").append(t).append(" ").append(answer).append("\n");
         }
 
@@ -55,13 +54,12 @@ class 벽돌깨기 {
             answer = result < answer ? result : answer;
             return;
         }
-        int[][] temp = deepcopy(matrix);  // 순열 한바퀴 돌고 원상복귀 해줘야 하므로
+        int[][] temp = deepcopy(matrix);  // 순열 한바퀴 돌고 원상복귀 해줘야 하므로 <= 어쩌면 이 문제의 핵심
 
         for(int i=0; i<W; i++) {    // 중복 순열로 짜야 함
             dropBall(i);    // i열에다가 볼을 떨굼
             play(depth+1);
-            matrix = deepcopy(temp);    // 2차 배열이므로 clone() 사용하면 안됨
-            //System.out.println("플레이 함수 중복순열 W :" + W + ", i = " + i);
+            matrix = deepcopy(temp);    // 원상복구
         }
     }
 
@@ -73,7 +71,6 @@ class 벽돌깨기 {
                 r = i;
                 break;
             }
-            //System.out.println("드랍 볼 블록 찾기");
         }
         if(r == -1) return; //해당 열이 비어있으면(깨지는 벽돌이 없으면 그냥 리턴)
 
@@ -81,12 +78,9 @@ class 벽돌깨기 {
         queue.offer(new int[]{r, c, matrix[r][c]});
 
         while(!queue.isEmpty()) {
-            //System.out.println("큐??");
             int[] now = queue.poll();
 
             explose(now[0], now[1], now[2], queue);
-
-            
         }
         sortBlock();    // 벽돌 다 깨지면 벽돌들 아래로 가도록 다 정리 해야함
     }
@@ -105,8 +99,7 @@ class 벽돌깨기 {
                 }
 
                 matrix[nr][nc] = 0;
-                //System.out.println("point r : " + nr + ", c : " + nc);
-            } //System.out.println("여기라고");
+            }
         }
     }
 
@@ -117,7 +110,7 @@ class 벽돌깨기 {
                 if(matrix[j][i] == 0 && index == H) { // 최초의 0자리가 시작 인덱스 자리임
                     index = j;
                     break;
-                }// System.out.println("소트블록");
+                }
             }
 
             if(index == H) continue;
@@ -139,7 +132,6 @@ class 벽돌깨기 {
                 if(matrix[i][j] > 0) result += 1;   // 벽돌이 안 깨져있다면 결과값 + 1
             }
         }
-        //System.out.println("카운트 블록");
         return result;
     }
 
