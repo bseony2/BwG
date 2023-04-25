@@ -42,6 +42,7 @@ public class 최장경로 {
 
             for(int i=1; i<N+1; i++) {
                 isVisited = new boolean[N+1];
+                isVisited[i] = true;
                 dfs(1, i);
             }
 
@@ -53,10 +54,10 @@ public class 최장경로 {
     }
 
     static void dfs(int depth, int i) {
-        isVisited[i] = true;
 
         for(int j=0; j< N+1; j++) {
             if(map[i][j] && !isVisited[j]) {
+                isVisited[j] = true;
                 dfs(depth+1, j);
                 isVisited[j] = false;
             }
