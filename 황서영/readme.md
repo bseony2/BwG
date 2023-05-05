@@ -78,3 +78,8 @@
 #### ✓ 4월 4주차
 * [3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935)
 * [푸드파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)
+
+#### ✓ 5월 1주차
+* [베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579)
+* [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
+* [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)
