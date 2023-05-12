@@ -13,6 +13,16 @@ public class 감시 {
     static int N;
     static int M;
     static int answer = Integer.MAX_VALUE;
+    static char[][][] signs = new char[][][]
+    {   
+        {{'N'}}
+        ,{{'U'}, {'R'}, {'D'}, {'L'}}
+        ,{{'U', 'D'}, {'R', 'L'}}
+        ,{{'U', 'R'}, {'R', 'D'}, {'D', 'L'}, {'L', 'U'}}
+        ,{{'U', 'R', 'D'}, {'R', 'D', 'L'}, {'D', 'L', 'U'}, {'L', 'U', 'R'}}
+        ,{{'U','R','D','L'}}
+    };
+
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
@@ -48,89 +58,16 @@ public class 감시 {
         int[] point = location.get(depth);
         int r = point[0];
         int c = point[1];
-        boolean[][] copyArray;
 
-        if(map[r][c] == 1) {
-            copyArray = cloneArray(sight);
-            onSight(copyArray, 'U', r, c);
-            dfs(copyArray, depth + 1);
+        char[][] sign = signs[map[r][c]];
 
-            copyArray = cloneArray(sight);
-            onSight(copyArray, 'R', r, c);
-            dfs(copyArray, depth + 1);
-
-            copyArray = cloneArray(sight);
-            onSight(copyArray, 'D', r, c);
-            dfs(copyArray, depth + 1);
-
-            copyArray = cloneArray(sight);
-            onSight(copyArray, 'L', r, c);
-            dfs(copyArray, depth + 1);
-        }
-        else if(map[r][c] == 2){
-            copyArray = cloneArray(sight);
-            onSight(copyArray, 'U', r, c);
-            onSight(copyArray, 'D', r, c);
-            dfs(copyArray, depth + 1);
-
-            copyArray = cloneArray(sight);
-            onSight(copyArray, 'R', r, c);
-            onSight(copyArray, 'L', r, c);
-            dfs(copyArray, depth + 1);
-        }
-        else if(map[r][c] == 3){
-            copyArray = cloneArray(sight);
-            onSight(copyArray, 'U', r, c);
-            onSight(copyArray, 'R', r, c);
-            dfs(copyArray, depth + 1);
-
-            copyArray = cloneArray(sight);
-            onSight(copyArray, 'U', r, c);
-            onSight(copyArray, 'L', r, c);
-            dfs(copyArray, depth + 1);
-
-            copyArray = cloneArray(sight);
-            onSight(copyArray, 'D', r, c);
-            onSight(copyArray, 'L', r, c);
-            dfs(copyArray, depth + 1);
-
-            copyArray = cloneArray(sight);
-            onSight(copyArray, 'D', r, c);
-            onSight(copyArray, 'R', r, c);
-            dfs(copyArray, depth + 1);
-        }
-        else if(map[r][c] == 4){
-            copyArray = cloneArray(sight);
-            onSight(copyArray, 'U', r, c);
-            onSight(copyArray, 'D', r, c);
-            onSight(copyArray, 'R', r, c);
-            dfs(copyArray, depth + 1);
-
-            copyArray = cloneArray(sight);
-            onSight(copyArray, 'U', r, c);
-            onSight(copyArray, 'D', r, c);
-            onSight(copyArray, 'L', r, c);
-            dfs(copyArray, depth + 1);
-
-            copyArray = cloneArray(sight);
-            onSight(copyArray, 'U', r, c);
-            onSight(copyArray, 'L', r, c);
-            onSight(copyArray, 'R', r, c);
-            dfs(copyArray, depth + 1);
-
-            copyArray = cloneArray(sight);
-            onSight(copyArray, 'D', r, c);
-            onSight(copyArray, 'L', r, c);
-            onSight(copyArray, 'R', r, c);
-            dfs(copyArray, depth + 1);
-        }
-        else if(map[r][c] == 5){
-            copyArray = cloneArray(sight);
-            onSight(copyArray, 'U', r, c);
-            onSight(copyArray, 'D', r, c);
-            onSight(copyArray, 'L', r, c);
-            onSight(copyArray, 'R', r, c);
-            dfs(copyArray, depth + 1);
+        for(int i=0; i<sign.length; i++) {
+            boolean[][] temp = cloneArray(sight);
+            for(int j=0; j<sign[i].length; j++) {
+                char d = sign[i][j];
+                onSight(temp, d, r, c);
+            }
+            dfs(temp, depth+1);
         }
     }
 
