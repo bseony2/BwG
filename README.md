@@ -11,26 +11,89 @@
 
 ## ✏️ 문제들
 
+### 3월  
+
+<details>
+<summary> 3월 2주차 (2023-03-06 ~ 2023-03-12) </summary> <br>
+<div markdown="1"> <br>
+
+|날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
+|-----|-----|-----|-----|-----|
+|2023-03-12|김서연|[듣보잡](https://www.acmicpc.net/problem/1764)|정렬|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B1764_%EB%93%A3%EB%B3%B4%EC%9E%A1.java)
+|2023-03-12|김서연|[중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/sql/%EC%A4%91%EB%B3%B5_%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.sql)
+|날짜|김예찬|[문제]()|알고리즘|[내 풀이]()
+|날짜|김예찬|[문제]()|알고리즘|[내 풀이]()
+|날짜|김병준|[문제]()|알고리즘|[내 풀이]()
+|날짜|김병준|[문제]()|알고리즘|[내 풀이]()
+|날짜|배선영|[문제]()|알고리즘|[내 풀이]()
+|날짜|배선영|[문제]()|알고리즘|[내 풀이]()
+</div>
+</details>
+
+
+<details>
+<summary> 3월 1주차 (2023-02-27 ~ 2023-03-05) </summary> <br>
+<div markdown="1"> <br>
+
+|날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
+|-----|-----|-----|-----|-----|
+|2023-03-05|김서연|[ATM](https://www.acmicpc.net/problem/11399)|정렬|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B11399_ATM.java)
+|2023-03-05|김서연|[상위 n개 레코드](https://school.programmers.co.kr/learn/courses/30/lessons/59405)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/sql/%EC%83%81%EC%9C%84_n%EA%B0%9C_%EB%A0%88%EC%BD%94%EB%93%9C.sql)
+|날짜|김예찬|[문제]()|알고리즘|[내 풀이]()
+|날짜|김예찬|[문제]()|알고리즘|[내 풀이]()
+|날짜|김병준|[문제]()|알고리즘|[내 풀이]()
+|날짜|김병준|[문제]()|알고리즘|[내 풀이]()
+|날짜|배선영|[문제]()|알고리즘|[내 풀이]()
+|날짜|배선영|[문제]()|알고리즘|[내 풀이]()
+</div>
+</details>
+
+
+<br>
 
 ### 2월  
 
-<summary> 2월 3주차 (2023-02-13 ~ 2023-02-19) </summary> <br>
+<details>
+<summary> 2월 4주차 (2023-02-20 ~ 2023-02-26) </summary> <br>
+<div markdown="1"> <br>
+
+|날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
+|-----|-----|-----|-----|-----|
+|2023-02-26|김서연|[복붙의 달인](https://www.acmicpc.net/problem/11008)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B11008_%EB%B3%B5%EB%B6%99%EC%9D%98_%EB%8B%AC%EC%9D%B8.java)
+|2023-02-26|김서연|[플러그](https://www.acmicpc.net/problem/2010)|수학|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B2010_%ED%94%8C%EB%9F%AC%EA%B7%B8.java)
+|날짜|김예찬|[문제]()|알고리즘|[내 풀이]()
+|날짜|김예찬|[문제]()|알고리즘|[내 풀이]()
+|날짜|송준석|[문제]()|알고리즘|[내 풀이]()
+|날짜|송준석|[문제]()|알고리즘|[내 풀이]()
+|2023-02-26|김병준|[섬의 개수](https://www.acmicpc.net/problem/4963)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p4693.java)
+|2023-02-26|김병준|[효율적인 해킹](https://www.acmicpc.net/problem/1325)|BFS|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p1325.java)
+|2023-02-20|배선영|[최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|최소 신장 트리|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC.java)
+|2023-02-26|배선영|[특정한 최단 경로](https://www.acmicpc.net/problem/1504)|다익스트라|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%8A%B9%EC%A0%95%ED%95%9C%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.java)
+
+</div>
+</details>
+
+
+<details>
+<summary> 2월 3주차 (2023-02-13 ~ 2023-02-19) </summary>
+<div markdown="1"> <br>
 
 |날짜|푼 사람|문제|알고리즘|나의 풀이법 링크|
 |-----|-----|-----|-----|-----|
 |2023-02-19|김서연|[팬그램](https://www.acmicpc.net/problem/5704)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B5704_%ED%8C%AC%EA%B7%B8%EB%9E%A8.java)
 |2023-02-19|김서연|[문자열 분석](https://www.acmicpc.net/problem/10820)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%84%9C%EC%97%B0/Baekjoon/B10820_%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%B6%84%EC%84%9D.java)
-|날짜|신승혁|[문제]()|알고리즘|[내 풀이]({링크})
-|날짜|신승혁|[문제]()|알고리즘|[내 풀이]({링크})
-|날짜|김병준|[문제]()|알고리즘|[내 풀이]({링크})
-|날짜|김병준|[문제]()|알고리즘|[내 풀이]({링크})
-|날짜|김예찬|[문제]()|알고리즘|[내 풀이]({링크})
-|날짜|김예찬|[문제]()|알고리즘|[내 풀이]({링크})
+|2023-02-19|신승혁|[단어 공부](https://www.acmicpc.net/problem/1157)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/BOJ_1157_%EB%8B%A8%EC%96%B4%EA%B3%B5%EB%B6%80.java)
+|2023-02-19|신승혁|[자동차 대여 기록에서 대여중 /<br> 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340)|SQL|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EC%8B%A0%EC%8A%B9%ED%98%81/%EC%9E%90%EB%8F%99%EC%B0%A8%20%EB%8C%80%EC%97%AC%20%EA%B8%B0%EB%A1%9D%EC%97%90%EC%84%9C%20%EB%8C%80%EC%97%AC%20%EA%B0%80%EB%8A%A5%20%EC%97%AC%EB%B6%80%20%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0.SQL)
+|2023-02-19|김병준|[단어공부](https://www.acmicpc.net/problem/1157)|문자열|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p1157.java)
+|2023-02-19|김병준|[배열돌리기](https://www.acmicpc.net/problem/17276)|구현|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EB%B3%91%EC%A4%80/p17276.java)
+|2023-02-19|김예찬|[여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)|dfs|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.java)
+|2023-02-19|김예찬|[전력망둘로나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)|완탐|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EA%B9%80%EC%98%88%EC%B0%AC/%EC%A0%84%EB%A0%A5%EB%A7%9D_%EB%91%98%EB%A1%9C_%EB%82%98%EB%88%84%EA%B8%B0.java)
 |날짜|송준석|[문제]()|알고리즘|[내 풀이]({링크})
 |날짜|송준석|[문제]()|알고리즘|[내 풀이]({링크})
-|날짜|배선영|[문제]()|알고리즘|[내 풀이]({링크})
-|날짜|배선영|[문제]()|알고리즘|[내 풀이]({링크})
-<br>
+|2023-02-16|배선영|[팀 빌딩](https://www.acmicpc.net/problem/22945)|투 포인터|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%ED%8C%80%EB%B9%8C%EB%94%A9.java)
+|2023-02-16|배선영|[거짓말](https://www.acmicpc.net/problem/1043)|유니온/파인드|[내 풀이](https://github.com/bseony2/BwG/blob/master/%EB%B0%B0%EC%84%A0%EC%98%81/%EA%B1%B0%EC%A7%93%EB%A7%90.java)
+</div>
+</details>
 
 
 
