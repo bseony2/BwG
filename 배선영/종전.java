@@ -3,12 +3,13 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-
 public class 종전 {
     static int N;
     static int[][] matrix;
     static boolean[][] isVisited;
     static int ans = Integer.MAX_VALUE;
+    static int maxSize, minSize;
+    static int total = 0;
     static int bottomR, bottomC, rightR, rightC, topR, topC, leftR, leftC;
     public static void main(String...args) throws IOException{
         generateMatrix();
@@ -25,7 +26,9 @@ public class 종전 {
         for(int i=0; i<N; i++) {
             StringTokenizer st = new StringTokenizer(br.readLine(), " ");
             for(int j=0; j<N; j++) {
-                matrix[i][j] = Integer.parseInt(st.nextToken());
+                int value = Integer.parseInt(st.nextToken());
+                total += value;
+                matrix[i][j] = value;
             }
         }
     }
@@ -93,17 +96,23 @@ public class 종전 {
     static void cntLands(int[] pointArr) {
 
         setPoint(pointArr);
-        int maxSize = Integer.MIN_VALUE;
-        int minSize = Integer.MAX_VALUE;
+        maxSize = Integer.MIN_VALUE;
+        minSize = Integer.MAX_VALUE;
         isVisited = new boolean[N][N];
-        for(int i=5; i>=1; i--) {
+        int sum = 0;
+        for(int i=5; i>=2; i--) {
             int size = countLandSize(i);
-            maxSize = maxSize > size ? maxSize : size;
-            minSize = minSize < size ? minSize : size;
+            sum += size;
+            calMinMax(size);
         }
+        calMinMax(total-sum);
 
         ans = ans < maxSize-minSize ? ans : maxSize-minSize;
-        
+    }
+
+    static void calMinMax(int size) {
+        maxSize = maxSize > size ? maxSize : size;
+        minSize = minSize < size ? minSize : size;
     }
 
     static void setPoint(int[] pointArr) {
@@ -120,9 +129,6 @@ public class 종전 {
     static int countLandSize(int i) {
         int result = 0;
         switch(i) {
-            case 1 :
-                result = countFirstLand();
-                break;
             case 2 :
                 result = countSecondLand();
                 break;
@@ -136,20 +142,6 @@ public class 종전 {
                 result = countFifthLand();
                 break;
         }
-        return result;
-    }
-
-    static int countFirstLand() {
-        int result = 0;
-        
-        for(int i=0; i<N; i++) {
-            for(int j=0; j<N; j++) {
-                if(!isVisited[i][j]) {
-                    result += matrix[i][j];
-                }
-            }
-        }
-
         return result;
     }
 
