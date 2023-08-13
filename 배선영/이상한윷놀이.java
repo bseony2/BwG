@@ -31,7 +31,7 @@ public class 이상한윷놀이 {
     public static void main(String...args) throws IOException{
         initialize();
 
-        while(turn++ <= 1000) {
+        while(++turn <= 1000) {
             play();
         }
 
@@ -73,18 +73,19 @@ public class 이상한윷놀이 {
     }
 
     static void move(Unit unit) {
-        int nr = unit.r + dr[unit.d];
-        int nc = unit.c + dc[unit.d];
+        
 
-        int nextColor = getNextColor(nr, nc);
+        int nextColor = getNextColor(unit);
         colorMove(unit, nextColor);
     }
 
-    static int getNextColor(int r, int c) {
-        if(!isValidPoint(r, c) || board[r][c] == 2) {
+    static int getNextColor(Unit unit) {
+        int nr = unit.r + dr[unit.d];
+        int nc = unit.c + dc[unit.d];
+        if(!isValidPoint(nr, nc) || board[nr][nc] == 2) {
             return 2;
         }
-        return board[r][c];
+        return board[nr][nc];
     }
 
     static boolean isValidPoint(int r, int c) {
@@ -100,7 +101,7 @@ public class 이상한윷놀이 {
                 redMove(unit);
                 break;
             case 2 :
-                bludMove(unit);
+                blueMove(unit);
                 break;
         }
     }
@@ -111,13 +112,15 @@ public class 이상한윷놀이 {
         int nr = unit.r + dr[unit.d];
         int nc = unit.c + dc[unit.d];
         int index = unitBoard[unit.r][unit.c].indexOf(unit);
-        if(unitBoard[r][c].size() - index + unitBoard[nr][nc].size() >= 4) {
-            gameOver();
-        }
+
         while(unitBoard[r][c].size() > index) {
             Unit currentUnit = unitBoard[r][c].get(index);
             unitMove(currentUnit, nr, nc);
             unitBoard[r][c].remove(index);
+        }
+
+        if(unitBoard[nr][nc].size() >= 4) {
+            gameOver();
         }
     }
 
@@ -133,14 +136,15 @@ public class 이상한윷놀이 {
             unitMove(currentUnit, nr, nc);
             unitBoard[r][c].remove(unitBoard[r][c].size()-1);
         }
+
+        if(unitBoard[nr][nc].size() >= 4) {
+            gameOver();
+        }
     }
 
-    static void bludMove(Unit unit) {
+    static void blueMove(Unit unit) {
         unit.changeDirection();
-        int nr = unit.r + dr[unit.d];
-        int nc = unit.c + dc[unit.d];
-
-        int nextColor = getNextColor(nr, nc);
+        int nextColor = getNextColor(unit);
 
         if(nextColor == 0) {
             whiteMove(unit);
