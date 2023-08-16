@@ -59,7 +59,7 @@ public class 이상한다트게임 {
         }
         
 
-        //deleteSameValue();
+        deleteSameValue();
     }
 
     static void turn(int index) {
