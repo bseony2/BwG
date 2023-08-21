@@ -33,6 +33,10 @@ public class 불안한무빙워크 {
             spin();
 
             moveTester();
+
+            if(numOfZero >= k) {
+                break;
+            }
         }
 
         System.out.println(turn);
