@@ -6,7 +6,13 @@ import java.util.StringTokenizer;
 public class 미로타워디펜스 {
     static int N, M = 1;
     static int[] map;
-    static int[][] indexMap = new int[4][12];
+    static int[][] indexMap = new int[][]
+    {
+        {4, 17, 38, 67, 104, 149, 202, 263, 332, 409, 494, 587},
+        {2, 13, 32, 59, 94, 137, 188, 247, 314, 389, 472, 563},
+        {0, 9, 26, 51, 84, 125, 174, 231, 296, 369, 450, 539},
+        {6, 21, 44, 75, 114, 161, 216, 279, 350, 429, 516, 611}
+    };
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static int score = 0;
     public static void main(String[] args) throws IOException {
@@ -34,44 +40,37 @@ public class 미로타워디펜스 {
 
         int[] dr = new int[]{0, 1, 0, -1};
         int[] dc = new int[]{-1, 0, 1, 0};
-        boolean[][] isVisited = new boolean[N][N];
         int r = N/2, c = N/2;
-        isVisited[r][c] = true;
         int index = 0;
-        int d = 3;
+        int d = 0;
 
-        while(true) {
-            int nd = (d+1) % 4;
-            if(isValidPoint(r + dr[nd], c + dc[nd]) && !isVisited[r + dr[nd]][c + dc[nd]]) {
-                d = nd;
-            }
+        for(int i=0; i < N*2; i++, d = (d+1)%4) {
+            for(int j=0; j<=i/2; j++) {
+                r += dr[d];
+                c += dc[d];
 
-            int nr = r + dr[d];
-            int nc = c + dc[d];
+                if(!isValidPoint(r, c)) break;
 
-            if(!isValidPoint(nr, nc)) break;
+                if(initMap[r][c] == 0) continue;
 
-            map[index++] = initMap[nr][nc];
-            isVisited[nr][nc] = true;
-
-            r = nr;
-            c = nc;
-        }
-
-        indexMap[0][0] = 4;
-        indexMap[0][1] = 17;
-        indexMap[1][0] = 2;
-        indexMap[1][1] = 13;
-        indexMap[2][0] = 0;
-        indexMap[2][1] = 9;
-        indexMap[3][0] = 6;
-        indexMap[3][1] = 21;
-
-        for(int i=0; i<4; i++) {
-            for(int j=2; j<12; j++) {
-                indexMap[i][j] = 2*(indexMap[i][j-1])-(indexMap[i][j-2])+8;
+                map[index++] = initMap[r][c];
             }
         }
+
+        // indexMap[0][0] = 4;
+        // indexMap[0][1] = 17;
+        // indexMap[1][0] = 2;
+        // indexMap[1][1] = 13;
+        // indexMap[2][0] = 0;
+        // indexMap[2][1] = 9;
+        // indexMap[3][0] = 6;
+        // indexMap[3][1] = 21;
+
+        // for(int i=0; i<4; i++) {
+        //     for(int j=2; j<12; j++) {
+        //         indexMap[i][j] = 2*(indexMap[i][j-1])-(indexMap[i][j-2])+8;
+        //     }
+        // }
     }
 
     static void simulate() throws IOException {
@@ -167,6 +166,7 @@ public class 미로타워디펜스 {
             }
             else {
                 tempMap[index++] = size;
+                if(index == map.length) break;
                 tempMap[index++] = map[start];
                 size = 1;
                 start = i;
