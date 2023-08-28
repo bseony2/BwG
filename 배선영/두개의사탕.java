@@ -1,17 +1,20 @@
 import java.io.*;
+import java.util.*;
 public class 두개의사탕 {
 	static int N, M;
 	static char[][] map;
-	static int ans = Integer.MAX_VALUE;
+	static int ans = -1;
 	static int[] dr = new int[] {-1, 0, 1, 0};
 	static int[] dc = new int[] {0, 1, 0, -1};
+	static int[] initRedCandy = new int[2];
+	static int[] initBlueCandy = new int[2];
 
 	public static void main(String[] args) throws IOException {
 		init();
 		
 		simulate();
 		
-		System.out.println(ans == Integer.MAX_VALUE ? -1 : ans);
+		System.out.println(ans);
 	}
 	
 	static void init() throws IOException {
@@ -25,106 +28,114 @@ public class 두개의사탕 {
 			char[] charArr = br.readLine().toCharArray(); 
 			for(int j=0; j<M; j++) {
 				map[i][j] = charArr[j];
-			}
-		}
-	}
-	
-	static void simulate() {
-		dfs(0, 0);
-	}
-	
-	static void dfs(int depth, int d) {
-		if(depth >= ans) return;
-		boolean isBlueExist = isCandyExist('B');
-		boolean isRedExist = isCandyExist('R');
-		
-		if(!isBlueExist) return;
-		if(!isRedExist) {
-			ans = ans > depth ? depth : ans;
-			return;
-		}
-		
-		if(depth == 10) {
-			return;
-		}
-		
-		char[][] tempMap = copyMap(map);
-		
-		int end = depth == 0 ? 4 : 3;
-		for(int i=0; i<end; i++) {
-			d = (d+1) % 4;
-			move(d);
-			dfs(depth+1, d);
-			map = copyMap(tempMap);
-		}
-	}
-	
-	static boolean isCandyExist(char color) {
-		boolean result = false;
-		
-		for(int i=0; i<N; i++) {
-			for(int j=0; j<M; j++) {
-				if(map[i][j] == color) return true;
-			}
-		}
-		
-		return result;
-	}
-
-	static char[][] copyMap(char[][] originMap) {
-		char[][] result = new char[N][M];
-		
-		for(int i=0; i<N; i++) {
-			for(int j=0; j<M; j++) {
-				result[i][j] = originMap[i][j];
-			}
-		}
-		
-		return result;
-	}
-	
-	static void move(int d) {
-		for(int i=0; i<N; i++) {
-			for(int j=0; j<M; j++) {
-				if(isCandy(i, j)) {
-					moveCandy(i, j, d, true);
+				if(map[i][j] == 'R') {
+					initRedCandy[0] = i;
+					initRedCandy[1] = j;
+				}
+				else if(map[i][j] == 'B') {
+					initBlueCandy[0] = i;
+					initBlueCandy[1] = j;
 				}
 			}
 		}
 	}
 	
-	static void moveCandy(int r, int c, int d, boolean isFirst) {
-		char color = map[r][c];
-		map[r][c] = '.';
+	static void simulate() {
+		ans = bfs();
+	}
+
+	static int bfs() {
+		boolean[][][][] isVisited = new boolean[N][M][N][M];
+		Queue<int[]> queue = new LinkedList<>();
+		queue.add(new int[]{initRedCandy[0], initRedCandy[1], initBlueCandy[0], initBlueCandy[1], 1});
+		isVisited[initRedCandy[0]][initRedCandy[1]][initBlueCandy[0]][initBlueCandy[1]] = true;
+
+		while(!queue.isEmpty()) {
+			int[] candys = queue.poll();
+			int depth = candys[4];
+
+			for(int i=0; i<4; i++) {
+				
+				int[] newRedCandy = moveCandy(candys[0], candys[1], i);
+				int[] newBlueCandy = moveCandy(candys[2], candys[3], i);
+
+				boolean isRedExist = newRedCandy[0] > -1;
+				boolean isBlueExist = newBlueCandy[0] > -1;
+				if(!isBlueExist) continue;
+				if(!isRedExist) {
+					return depth;
+				}
+				
+				if(sameLocation(newRedCandy, newBlueCandy)) {
+					if(i == 0) {
+						if(candys[0] < candys[2]) {
+							newBlueCandy[0] += 1;
+						} else {
+							newRedCandy[0] += 1;
+						}
+					}
+					else if(i == 1) {
+						if(candys[1] < candys[3]) {
+							newRedCandy[1] -= 1;
+						} else {
+							newBlueCandy[1] -= 1;
+						}
+					}
+					else if(i == 2) {
+						if(candys[0] < candys[2]) {
+							newRedCandy[0] -= 1;
+						} else {
+							newBlueCandy[0] -= 1;
+						}
+					} else {
+						if(candys[1] < candys[3]) {
+							newBlueCandy[1] += 1;
+						} else {
+							newRedCandy[1] += 1;
+						}
+					}
+				}
+				
+				if(depth == 10) continue;
+				if(isVisited[newRedCandy[0]][newRedCandy[1]][newBlueCandy[0]][newBlueCandy[1]]) continue;
+				queue.add(new int[]{newRedCandy[0], newRedCandy[1], newBlueCandy[0], newBlueCandy[1], depth+1});
+				isVisited[newRedCandy[0]][newRedCandy[1]][newBlueCandy[0]][newBlueCandy[1]] = true;
+			}
+		}
+		return -1;
+	}
+
+	static int[] moveCandy(int r, int c, int d) {
+		int[] result = new int[2];
 		while(true) {
+
 			int nr = r + dr[d];
 			int nc = c + dc[d];
-			
-			if(isBlock(nr, nc)) break;
-			
-			if(isCandy(nr, nc) && isFirst) {
-				moveCandy(nr, nc, d, false);
-				if(isCandy(nr, nc)) break;
+
+			if(!isValidPoint(nr, nc) || isBlock(nr, nc)) break;
+			if(map[nr][nc] == 'O') {
+				result[0] = -1;
+				result[1] = -1;
+				return result;
 			}
-			
-			if(isExit(nr, nc)) return;
-			
 			r = nr;
 			c = nc;
 		}
-		
-		map[r][c] = color;
+		result[0] = r;
+		result[1] = c;
+
+		return result;
 	}
-	
-	static boolean isCandy(int r, int c) {
-		return map[r][c] == 'R' || map[r][c] == 'B';
+
+	static boolean isValidPoint(int r, int c) {
+		return 0<=r && r<N && 0<=c && c<M;
 	}
-	
+
 	static boolean isBlock(int r, int c) {
 		return map[r][c] == '#';
 	}
-	
-	static boolean isExit(int r, int c) {
-		return map[r][c] == 'O';
+
+	static boolean sameLocation(int[] redCandy, int[] blueCandy) {
+		return redCandy[0] == blueCandy[0] && redCandy[1] == blueCandy[1];
 	}
 }
